@@ -1,0 +1,85 @@
+{
+export = 0;
+glyphname = Z.001;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"108 466 LINE",
+"276 700 LINE",
+"178 725 LINE",
+"85 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"329 -28 LINE",
+"334 -31 LINE",
+"414 17 LINE",
+"582 127 LINE",
+"574 142 LINE",
+"396 32 LINE",
+"265 32 OFFCURVE",
+"275 138 OFFCURVE",
+"120 138 CURVE",
+"50 59 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 -6 OFFCURVE",
+"-3 -6 OFFCURVE",
+"11 -3 CURVE",
+"114 120 OFFCURVE",
+"136 156 OFFCURVE",
+"222 240 CURVE",
+"305 240 OFFCURVE",
+"644 546 OFFCURVE",
+"644 708 CURVE",
+"641 711 OFFCURVE",
+"594 748 OFFCURVE",
+"588 749 CURVE",
+"518 666 LINE",
+"178 725 LINE",
+"180 693 LINE",
+"281 702 OFFCURVE",
+"477 653 OFFCURVE",
+"498 648 CURVE",
+"498 584 OFFCURVE",
+"242 289 OFFCURVE",
+"39 65 CURVE",
+"18 40 OFFCURVE",
+"-12 14 OFFCURVE",
+"-37 -4 CURVE"
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{227, 0}";
+},
+{
+name = center;
+position = "{334, 350}";
+},
+{
+name = top;
+position = "{441, 700}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 600;
+}
+);
+leftKerningGroup = Z.001;
+rightKerningGroup = Z.001;
+}

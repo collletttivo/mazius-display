@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = slash;
+layers = (
+{
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 -250 LINE",
+"486 750 LINE",
+"446 750 LINE",
+"40 -250 LINE"
+);
+}
+);
+width = 508;
+},
+{
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"92 -250 LINE",
+"498 750 LINE",
+"436 750 LINE",
+"30 -250 LINE"
+);
+}
+);
+width = 518;
+}
+);
+leftKerningGroup = slash;
+rightKerningGroup = slash;
+unicode = 002F;
+}

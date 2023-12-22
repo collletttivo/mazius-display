@@ -1,0 +1,57 @@
+{
+export = 0;
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 547}";
+},
+{
+name = top;
+position = "{200, 658}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"300 628 LINE",
+"300 666 LINE",
+"100 666 LINE",
+"100 628 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{285, 564}";
+},
+{
+name = top;
+position = "{285, 685}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"173 632 LINE",
+"397 632 LINE",
+"397 684 LINE",
+"173 685 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0304;
+}

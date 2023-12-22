@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="580"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="122" y="-58" type="line"/>
+      <point x="382" y="90"/>
+      <point x="614" y="392"/>
+      <point x="650" y="620" type="curve"/>
+      <point x="630" y="656"/>
+      <point x="582" y="698"/>
+      <point x="530" y="718" type="curve"/>
+      <point x="474" y="656" type="line"/>
+      <point x="478" y="616" type="line"/>
+      <point x="602" y="544" type="line"/>
+      <point x="554" y="368"/>
+      <point x="414" y="176"/>
+      <point x="222" y="32" type="curve"/>
+      <point x="214" y="36" type="line"/>
+      <point x="358" y="700" type="line"/>
+      <point x="210" y="700" type="line" name="_corner00"/>
+      <point x="74" y="64" type="line"/>
+      <point x="94" y="28"/>
+      <point x="126" y="0"/>
+      <point x="154" y="-14" type="curve"/>
+      <point x="112" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

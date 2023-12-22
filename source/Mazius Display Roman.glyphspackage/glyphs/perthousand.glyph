@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = perthousand;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{1, 0, 0, 1, 743, -598}";
+},
+{
+name = percent;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 1162;
+},
+{
+components = (
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{1, 0, 0, 1, 800, -598}";
+},
+{
+name = percent;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 1226;
+}
+);
+leftKerningGroup = percent;
+leftMetricsKey = percent;
+rightKerningGroup = percent;
+rightMetricsKey = percent;
+unicode = 2030;
+}

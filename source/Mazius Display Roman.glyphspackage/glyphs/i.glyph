@@ -1,0 +1,41 @@
+{
+color = 4;
+glyphname = i;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 24, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 264;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{162, 0}";
+}
+);
+components = (
+{
+name = idotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 55, 10}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 315;
+}
+);
+leftKerningGroup = idotless;
+rightKerningGroup = idotless;
+unicode = 0069;
+}

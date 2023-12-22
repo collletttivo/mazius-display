@@ -1,0 +1,71 @@
+{
+export = 0;
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{200, 0}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"182 -188 OFFCURVE",
+"230 -120 OFFCURVE",
+"246 -48 CURVE",
+"234 -40 LINE",
+"154 -48 LINE",
+"142 -76 OFFCURVE",
+"138 -112 OFFCURVE",
+"138 -132 CURVE",
+"194 -136 LINE",
+"186 -128 LINE",
+"180 -156 OFFCURVE",
+"151 -191 OFFCURVE",
+"112 -218 CURVE",
+"118 -228 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{200, 0}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"186 -196 OFFCURVE",
+"226 -148 OFFCURVE",
+"250 -52 CURVE",
+"234 -38 LINE",
+"124 -48 LINE",
+"116 -76 OFFCURVE",
+"110 -116 OFFCURVE",
+"112 -152 CURVE",
+"186 -160 LINE",
+"174 -140 LINE",
+"162 -176 OFFCURVE",
+"142 -206 OFFCURVE",
+"102 -230 CURVE",
+"114 -248 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = comma;
+rightKerningGroup = period;
+unicode = 0326;
+}

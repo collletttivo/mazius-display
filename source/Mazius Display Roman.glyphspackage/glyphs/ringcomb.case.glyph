@@ -1,0 +1,53 @@
+{
+export = 0;
+glyphname = ringcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{194, 713}";
+}
+);
+background = {
+components = (
+{
+name = dotaccentcomb.case;
+transform = "{1, 0, 0, 1, 1, 43}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = ringcomb;
+transform = "{0.95446, 0, 0, 0.95446, 24, 230}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{116, 700}";
+},
+{
+name = top;
+position = "{127, 926}";
+}
+);
+components = (
+{
+name = ringcomb;
+transform = "{0.9076, 0, 0, 0.9076, 0, 256}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 264;
+}
+);
+leftKerningGroup = ringcomb.case;
+rightKerningGroup = ringcomb.case;
+}

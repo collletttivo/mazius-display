@@ -1,0 +1,39 @@
+{
+color = 5;
+glyphname = underscore;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"395 -56 LINE",
+"399 -30 LINE",
+"-33 -30 LINE",
+"-37 -56 LINE"
+);
+}
+);
+width = 508;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 -64 LINE",
+"270 -24 LINE",
+"-38 -24 LINE",
+"-46 -64 LINE"
+);
+}
+);
+width = 376;
+}
+);
+leftKerningGroup = underscore;
+rightKerningGroup = underscore;
+unicode = 005F;
+}

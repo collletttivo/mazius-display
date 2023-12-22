@@ -1,0 +1,37 @@
+{
+color = 8;
+glyphname = Gbreve;
+layers = (
+{
+components = (
+{
+name = G;
+},
+{
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 153, 135}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 694;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 61, 57}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 722;
+}
+);
+leftKerningGroup = O;
+leftMetricsKey = O;
+rightKerningGroup = G;
+rightMetricsKey = G;
+unicode = 011E;
+}

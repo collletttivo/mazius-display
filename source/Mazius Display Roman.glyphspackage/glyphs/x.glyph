@@ -1,0 +1,183 @@
+{
+color = 3;
+glyphname = x;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{256, 0}";
+},
+{
+name = top;
+position = "{256, 470}";
+}
+);
+hints = (
+{
+origin = "{0, 1}";
+scale = "{0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 2}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 4}";
+scale = "{1.2, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 5}";
+scale = "{-0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 7}";
+scale = "{0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 8}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 10}";
+scale = "{1.2, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 11}";
+scale = "{-0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"215 216 LINE",
+"49 470 LINE",
+"154 470 LINE",
+"276 285 LINE",
+"404 470 LINE",
+"425 470 LINE",
+"286 269 LINE",
+"461 0 LINE",
+"356 0 LINE",
+"226 200 LINE",
+"84 0 LINE",
+"63 0 LINE"
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{264, 0}";
+},
+{
+name = top;
+position = "{264, 480}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+scale = "{-1.58, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 2}";
+scale = "{1.5, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 3}";
+scale = "{-0.5, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 11}";
+scale = "{0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 5}";
+scale = "{0.73, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 6}";
+scale = "{-1.51, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 8}";
+scale = "{1.4, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 9}";
+scale = "{-0.5, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"75 0 LINE",
+"214 193 LINE",
+"342 0 LINE",
+"487 0 LINE",
+"304 277 LINE",
+"446 480 LINE",
+"411 480 LINE",
+"289 291 LINE",
+"169 480 LINE",
+"24 480 LINE",
+"200 212 LINE",
+"39 0 LINE"
+);
+}
+);
+width = 508;
+}
+);
+leftKerningGroup = x;
+rightKerningGroup = x;
+unicode = 0078;
+}

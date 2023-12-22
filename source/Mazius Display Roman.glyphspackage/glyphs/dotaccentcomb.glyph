@@ -1,0 +1,70 @@
+{
+export = 0;
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{111, 470}";
+},
+{
+name = top;
+position = "{111, 761}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"228 606 OFFCURVE",
+"251 630 OFFCURVE",
+"251 658 CURVE SMOOTH",
+"251 686 OFFCURVE",
+"228 710 OFFCURVE",
+"200 710 CURVE SMOOTH",
+"172 710 OFFCURVE",
+"149 686 OFFCURVE",
+"149 658 CURVE SMOOTH",
+"149 630 OFFCURVE",
+"172 606 OFFCURVE",
+"200 606 CURVE SMOOTH"
+);
+}
+);
+};
+components = (
+{
+name = period;
+transform = "{0.95, 0, 0, 0.95, 0, 598}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 222;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{111, 470}";
+},
+{
+name = top;
+position = "{111, 761}";
+}
+);
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 598}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 210;
+}
+);
+leftKerningGroup = dotaccentcomb;
+rightKerningGroup = dotaccentcomb;
+unicode = 0307;
+}

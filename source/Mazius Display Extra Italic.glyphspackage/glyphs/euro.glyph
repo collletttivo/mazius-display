@@ -1,0 +1,69 @@
+{
+glyphname = euro;
+layers = (
+{
+components = (
+{
+name = C;
+transform = "{1, 0, 0, 1, 56, 0}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"498 307 LINE",
+"505 330 LINE",
+"42 330 LINE",
+"35 307 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"519 377 LINE",
+"525 400 LINE",
+"62 400 LINE",
+"56 377 LINE"
+);
+}
+);
+width = 624;
+},
+{
+components = (
+{
+name = C;
+transform = "{1, 0, 0, 1, 43, 0}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"523 383 LINE",
+"532 413 LINE",
+"59 413 LINE",
+"50 383 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"503 313 LINE",
+"512 343 LINE",
+"39 343 LINE",
+"30 313 LINE"
+);
+}
+);
+width = 619;
+}
+);
+leftKerningGroup = euro;
+rightKerningGroup = euro;
+rightMetricsKey = C;
+unicode = 20AC;
+}

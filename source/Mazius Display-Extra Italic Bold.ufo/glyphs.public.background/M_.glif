@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="932"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line" name="_corner05"/>
+      <point x="94" y="0" type="line" name="_corner00"/>
+      <point x="286" y="676" type="line"/>
+      <point x="290" y="676" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="802" y="678" type="line"/>
+      <point x="806" y="678" type="line"/>
+      <point x="612" y="0" type="line" name="_corner01"/>
+      <point x="710" y="0" type="line" name="_corner02"/>
+      <point x="910" y="700" type="line" name="_corner03"/>
+      <point x="790" y="700" type="line"/>
+      <point x="428" y="132" type="line"/>
+      <point x="424" y="132" type="line"/>
+      <point x="384" y="700" type="line"/>
+      <point x="270" y="700" type="line" name="_corner04"/>
+    </contour>
+  </outline>
+</glyph>

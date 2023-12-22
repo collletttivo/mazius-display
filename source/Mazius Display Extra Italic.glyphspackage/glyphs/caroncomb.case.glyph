@@ -1,0 +1,59 @@
+{
+color = 3;
+export = 0;
+glyphname = caroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"220 568 LINE",
+"361 723 LINE",
+"355 730 LINE",
+"224 648 LINE",
+"220 648 LINE",
+"117 730 LINE",
+"109 726 LINE",
+"208 568 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"212 568 LINE",
+"365 719 LINE",
+"359 726 LINE",
+"220 660 LINE",
+"212 660 LINE",
+"105 726 LINE",
+"97 722 LINE",
+"192 568 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = caroncomb;
+rightKerningGroup = caroncomb;
+}

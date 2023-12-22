@@ -1,0 +1,36 @@
+{
+glyphname = egrave;
+layers = (
+{
+components = (
+{
+name = e;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 56, 0}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 372;
+},
+{
+components = (
+{
+name = e;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 84, 0}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 428;
+}
+);
+leftKerningGroup = o;
+leftMetricsKey = e;
+rightKerningGroup = c;
+rightMetricsKey = e;
+unicode = 00E8;
+}

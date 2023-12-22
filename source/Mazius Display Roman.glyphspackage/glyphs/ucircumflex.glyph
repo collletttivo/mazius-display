@@ -1,0 +1,37 @@
+{
+color = 8;
+glyphname = ucircumflex;
+layers = (
+{
+components = (
+{
+name = u;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 70, -26}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 535;
+},
+{
+components = (
+{
+name = u;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 152, -24}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 566;
+}
+);
+leftKerningGroup = u;
+leftMetricsKey = n;
+rightKerningGroup = u;
+rightMetricsKey = i;
+unicode = 00FB;
+}

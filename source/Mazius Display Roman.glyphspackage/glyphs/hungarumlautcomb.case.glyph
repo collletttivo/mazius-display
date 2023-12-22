@@ -1,0 +1,78 @@
+{
+export = 0;
+glyphname = hungarumlautcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{156, 543}";
+},
+{
+name = top;
+position = "{156, 734}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"201 724 LINE",
+"196 733 LINE",
+"114 730 LINE",
+"36 598 LINE",
+"43 595 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"344 717 LINE",
+"341 726 LINE",
+"260 734 LINE",
+"151 603 LINE",
+"157 599 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{220, 517}";
+},
+{
+name = top;
+position = "{220, 770}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"256 708 LINE",
+"249 717 LINE",
+"125 714 LINE",
+"123 579 LINE",
+"140 572 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"418 698 LINE",
+"412 707 LINE",
+"286 716 LINE",
+"232 578 LINE",
+"249 569 LINE"
+);
+}
+);
+width = 600;
+}
+);
+}

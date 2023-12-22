@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = quotedblright;
+layers = (
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 394, 1362}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 294;
+},
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 402, 1393}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 312;
+}
+);
+leftKerningGroup = quoteright;
+rightKerningGroup = quoteright;
+unicode = 201D;
+}

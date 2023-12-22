@@ -1,0 +1,38 @@
+{
+color = 8;
+glyphname = dcaron;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = d;
+},
+{
+name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 277, 8}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 553;
+},
+{
+components = (
+{
+alignment = -1;
+name = d;
+},
+{
+name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 229, 45}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 604;
+}
+);
+leftKerningGroup = o;
+leftMetricsKey = d;
+rightKerningGroup = lcaron;
+unicode = 010F;
+}

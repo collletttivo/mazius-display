@@ -1,0 +1,35 @@
+{
+color = 8;
+glyphname = Imacron;
+layers = (
+{
+components = (
+{
+name = I;
+},
+{
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, -38, 19}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 324;
+},
+{
+components = (
+{
+name = I;
+},
+{
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 189, 15}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 382;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = H;
+unicode = 012A;
+}

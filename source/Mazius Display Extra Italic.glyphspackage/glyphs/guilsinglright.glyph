@@ -1,0 +1,42 @@
+{
+color = 3;
+glyphname = guilsinglright;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 240 LINE",
+"124 456 LINE",
+"114 452 LINE",
+"188 238 LINE",
+"30 23 LINE",
+"38 16 LINE"
+);
+}
+);
+width = 296;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"274 240 LINE",
+"123 456 LINE",
+"111 452 LINE",
+"154 238 LINE",
+"26 25 LINE",
+"37 16 LINE"
+);
+}
+);
+width = 308;
+}
+);
+leftKerningGroup = guilsinglright;
+unicode = 203A;
+}

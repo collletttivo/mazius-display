@@ -1,0 +1,32 @@
+{
+glyphname = Cdotaccent;
+layers = (
+{
+components = (
+{
+name = C;
+},
+{
+name = dotaccentcomb.case;
+transform = "{1, 0, 0, 1, 216, 180}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 568;
+},
+{
+components = (
+{
+name = C;
+},
+{
+name = dotaccentcomb.case;
+transform = "{1, 0, 0, 1, 224, 180}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 576;
+}
+);
+unicode = 010A;
+}

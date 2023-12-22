@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="796"/>
+  <unicode hex="0077"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="433" y="480" name="top"/>
+  <outline>
+    <contour>
+      <point x="335" y="-2" type="line"/>
+      <point x="467" y="480" type="line"/>
+      <point x="436" y="480" type="line"/>
+      <point x="324" y="49" type="line"/>
+      <point x="182" y="480" type="line" name="_corner02"/>
+      <point x="39" y="480" type="line" name="_corner03"/>
+      <point x="195" y="-20" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="-2" type="line"/>
+      <point x="763" y="480" type="line" name="_corner00"/>
+      <point x="731" y="480" type="line" name="_corner01"/>
+      <point x="623" y="52" type="line"/>
+      <point x="491" y="480" type="line"/>
+      <point x="358" y="480" type="line"/>
+      <point x="494" y="-20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>scale</key>
+          <string>{0.9, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>scale</key>
+          <string>{-1.5, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>origin</key>
+          <string>_corner02</string>
+          <key>scale</key>
+          <string>{1.3, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner03</string>
+          <key>scale</key>
+          <string>{-0.75, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

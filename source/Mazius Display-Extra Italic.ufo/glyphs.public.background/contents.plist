@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>F.001</key>
+    <string>F_.001.glif</string>
+    <key>J.001</key>
+    <string>J_.001.glif</string>
+    <key>OE</key>
+    <string>O_E_.glif</string>
+    <key>approxequal</key>
+    <string>approxequal.glif</string>
+    <key>braceright</key>
+    <string>braceright.glif</string>
+    <key>brevecomb</key>
+    <string>brevecomb.glif</string>
+    <key>cedillacomb</key>
+    <string>cedillacomb.glif</string>
+    <key>f_h.liga</key>
+    <string>f_h.liga.glif</string>
+    <key>germandbls</key>
+    <string>germandbls.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
+  </dict>
+</plist>

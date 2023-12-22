@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m" format="2">
+  <advance width="856"/>
+  <unicode hex="006D"/>
+  <anchor x="429" y="0" name="bottom"/>
+  <anchor x="429" y="470" name="top"/>
+  <outline>
+    <contour>
+      <point x="180" y="470" type="line"/>
+      <point x="95" y="470" type="line" name="_corner00"/>
+      <point x="95" y="0" type="line" name="_corner01"/>
+      <point x="184" y="0" type="line" name="_corner02"/>
+      <point x="184" y="362" type="line"/>
+      <point x="217" y="394"/>
+      <point x="265" y="413"/>
+      <point x="305" y="413" type="curve" smooth="yes"/>
+      <point x="367" y="413"/>
+      <point x="398" y="377"/>
+      <point x="398" y="282" type="curve" smooth="yes"/>
+      <point x="398" y="0" type="line" name="_corner03"/>
+      <point x="487" y="0" type="line" name="_corner04"/>
+      <point x="487" y="318" type="line" smooth="yes"/>
+      <point x="487" y="423"/>
+      <point x="436" y="482"/>
+      <point x="331" y="482" type="curve"/>
+      <point x="285" y="461"/>
+      <point x="221" y="414"/>
+      <point x="181" y="369" type="curve"/>
+      <point x="180" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="370" type="curve"/>
+      <point x="470" y="364" type="line"/>
+      <point x="503" y="395"/>
+      <point x="550" y="413"/>
+      <point x="589" y="413" type="curve" smooth="yes"/>
+      <point x="651" y="413"/>
+      <point x="682" y="377"/>
+      <point x="682" y="282" type="curve" smooth="yes"/>
+      <point x="682" y="0" type="line" name="_corner05"/>
+      <point x="771" y="0" type="line" name="_corner06"/>
+      <point x="771" y="318" type="line" smooth="yes"/>
+      <point x="771" y="423"/>
+      <point x="720" y="482"/>
+      <point x="615" y="482" type="curve"/>
+      <point x="569" y="461"/>
+      <point x="506" y="414"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.topSerif</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner02</string>
+          <key>scale</key>
+          <string>{-1, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner03</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>origin</key>
+          <string>_corner04</string>
+          <key>scale</key>
+          <string>{-1, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>origin</key>
+          <string>_corner05</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.lcSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner06</string>
+          <key>scale</key>
+          <string>{-1, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

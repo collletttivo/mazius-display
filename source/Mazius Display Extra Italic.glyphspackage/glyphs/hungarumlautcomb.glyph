@@ -1,0 +1,114 @@
+{
+color = 3;
+export = 0;
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 470}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"420 732 LINE",
+"412 744 LINE",
+"340 736 LINE",
+"236 554 LINE",
+"243 548 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"310 734 LINE",
+"304 746 LINE",
+"236 734 LINE",
+"148 554 LINE",
+"155 548 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 490}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"299 724 LINE",
+"287 748 LINE",
+"191 736 LINE",
+"119 554 LINE",
+"131 546 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 718 LINE",
+"437 744 LINE",
+"343 740 LINE",
+"237 556 LINE",
+"247 546 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 470}";
+}
+);
+associatedMasterId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+layerId = "4A638789-0B26-487B-9DA5-302C6C787A9B";
+name = "9 apr 22, 14:34";
+paths = (
+{
+closed = 1;
+nodes = (
+"394 728 LINE",
+"394 729 LINE",
+"393 729 OFFCURVE",
+"381 732 OFFCURVE",
+"382 732 CURVE",
+"314 728 LINE",
+"195 543 LINE",
+"203 543 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"534 728 LINE",
+"534 729 LINE",
+"533 729 OFFCURVE",
+"521 732 OFFCURVE",
+"522 732 CURVE",
+"454 728 LINE",
+"335 543 LINE",
+"343 543 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = dieresiscomb;
+rightKerningGroup = dieresiscomb;
+unicode = 030B;
+}

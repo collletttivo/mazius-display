@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="423"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <outline>
+    <component base="idotless" xOffset="61"/>
+    <component base="dotaccentcomb" xOffset="44"/>
+  </outline>
+</glyph>

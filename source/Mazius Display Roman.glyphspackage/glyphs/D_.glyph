@@ -1,0 +1,160 @@
+{
+color = 4;
+glyphname = D;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{393, 0}";
+},
+{
+name = center;
+position = "{393, 350}";
+},
+{
+name = top;
+position = "{371, 700}";
+}
+);
+background = {
+components = (
+{
+name = O;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+};
+hints = (
+{
+origin = "{0, 8}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 9}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"214 0 LINE",
+"348 -5 LINE",
+"414 -2 OFFCURVE",
+"710 127 OFFCURVE",
+"710 383 CURVE SMOOTH",
+"710 599 OFFCURVE",
+"570 702 OFFCURVE",
+"354 701 CURVE SMOOTH",
+"112 700 LINE",
+"112 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 676 LINE",
+"234 681 OFFCURVE",
+"278 682 OFFCURVE",
+"293 682 CURVE SMOOTH",
+"487 682 OFFCURVE",
+"597 597 OFFCURVE",
+"597 372 CURVE SMOOTH",
+"597 161 OFFCURVE",
+"497 30 OFFCURVE",
+"364 30 CURVE SMOOTH",
+"313 30 OFFCURVE",
+"255 43 OFFCURVE",
+"212 64 CURVE"
+);
+}
+);
+width = 756;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{393, 0}";
+},
+{
+name = center;
+position = "{393, 350}";
+},
+{
+name = top;
+position = "{393, 700}";
+}
+);
+background = {
+components = (
+{
+name = O;
+transform = "{1, 0, 0, 1, -10, 0}";
+}
+);
+};
+hints = (
+{
+origin = "{0, 8}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 9}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"266 0 LINE",
+"375 -5 LINE",
+"454 -2 OFFCURVE",
+"748 92 OFFCURVE",
+"748 373 CURVE SMOOTH",
+"748 589 OFFCURVE",
+"612 700 OFFCURVE",
+"383 700 CURVE SMOOTH",
+"112 700 LINE",
+"112 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 659 LINE",
+"286 668 OFFCURVE",
+"320 675 OFFCURVE",
+"342 675 CURVE SMOOTH",
+"469 675 OFFCURVE",
+"578 532 OFFCURVE",
+"578 362 CURVE SMOOTH",
+"578 178 OFFCURVE",
+"491 25 OFFCURVE",
+"385 25 CURVE SMOOTH",
+"345 25 OFFCURVE",
+"289 47 OFFCURVE",
+"266 69 CURVE"
+);
+}
+);
+width = 781;
+}
+);
+leftKerningGroup = H;
+leftMetricsKey = H;
+rightKerningGroup = O;
+rightMetricsKey = O;
+unicode = 0044;
+}

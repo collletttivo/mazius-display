@@ -1,0 +1,72 @@
+{
+export = 0;
+glyphname = T_i.dlig;
+layers = (
+{
+components = (
+{
+name = T.004;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"588 11 OFFCURVE",
+"600 -2 OFFCURVE",
+"624 -20 CURVE",
+"754 54 LINE",
+"751 60 LINE",
+"648 8 LINE",
+"786 473 LINE",
+"775 475 LINE",
+"602 418 LINE",
+"604 412 LINE",
+"688 437 LINE",
+"570 41 LINE"
+);
+}
+);
+width = 823;
+},
+{
+anchors = (
+{
+name = bottom_1;
+position = "{95, 0}";
+},
+{
+name = bottom_2;
+position = "{395, 0}";
+},
+{
+name = caret_1;
+position = "{318, 0}";
+},
+{
+name = center_1;
+position = "{202, 350}";
+},
+{
+name = center_2;
+position = "{502, 350}";
+},
+{
+name = top_1;
+position = "{309, 700}";
+},
+{
+name = top_2;
+position = "{609, 700}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 486;
+}
+);
+leftKerningGroup = T;
+leftMetricsKey = T;
+rightKerningGroup = T_i.dlig;
+rightMetricsKey = i;
+}

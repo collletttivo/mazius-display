@@ -1,0 +1,35 @@
+{
+color = 8;
+glyphname = lacute;
+layers = (
+{
+components = (
+{
+name = l;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, -24, 50}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 253;
+},
+{
+components = (
+{
+name = l;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, -183, 50}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 306;
+}
+);
+leftKerningGroup = h;
+rightKerningGroup = l;
+unicode = 013A;
+}

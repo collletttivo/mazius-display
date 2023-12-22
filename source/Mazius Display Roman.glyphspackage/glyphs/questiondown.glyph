@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = questiondown;
+layers = (
+{
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 434, 457}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 414;
+},
+{
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 498, 456}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 468;
+}
+);
+leftKerningGroup = questiondown;
+rightKerningGroup = questiondown;
+unicode = 00BF;
+}

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="916"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="456" y="-60" type="line"/>
+      <point x="716" y="88"/>
+      <point x="948" y="388"/>
+      <point x="984" y="616" type="curve"/>
+      <point x="964" y="652"/>
+      <point x="917" y="698"/>
+      <point x="865" y="718" type="curve"/>
+      <point x="817" y="656" type="line"/>
+      <point x="821" y="616" type="line"/>
+      <point x="932" y="540" type="line"/>
+      <point x="884" y="364"/>
+      <point x="744" y="172"/>
+      <point x="552" y="28" type="curve"/>
+      <point x="544" y="32" type="line"/>
+      <point x="624" y="248"/>
+      <point x="672" y="464"/>
+      <point x="692" y="696" type="curve"/>
+      <point x="633" y="718" type="line"/>
+      <point x="550" y="686" type="line"/>
+      <point x="510" y="414"/>
+      <point x="408" y="212"/>
+      <point x="224" y="40" type="curve"/>
+      <point x="216" y="44" type="line"/>
+      <point x="358" y="700" type="line"/>
+      <point x="210" y="700" type="line" name="_corner00"/>
+      <point x="72" y="60" type="line"/>
+      <point x="94" y="24"/>
+      <point x="126" y="-2"/>
+      <point x="154" y="-14" type="curve"/>
+      <point x="112" y="-40" type="line"/>
+      <point x="122" y="-58" type="line"/>
+      <point x="314" y="70"/>
+      <point x="402" y="180"/>
+      <point x="477" y="330" type="curve"/>
+      <point x="485" y="328" type="line"/>
+      <point x="459" y="223"/>
+      <point x="446" y="178"/>
+      <point x="408" y="72" type="curve"/>
+      <point x="428" y="36"/>
+      <point x="461" y="2"/>
+      <point x="489" y="-14" type="curve"/>
+      <point x="444" y="-44" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>V</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

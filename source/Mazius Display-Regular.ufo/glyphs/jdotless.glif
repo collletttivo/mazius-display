@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="278"/>
+  <unicode hex="0237"/>
+  <anchor x="151" y="470" name="top"/>
+  <outline>
+    <contour>
+      <point x="16" y="-144" type="curve"/>
+      <point x="-14" y="-140" type="line"/>
+      <point x="-68" y="-179" type="line"/>
+      <point x="-56" y="-223"/>
+      <point x="-20" y="-250"/>
+      <point x="11" y="-250" type="curve"/>
+      <point x="109" y="-214"/>
+      <point x="176" y="-141"/>
+      <point x="202" y="-38" type="curve"/>
+      <point x="202" y="470" type="line"/>
+      <point x="113" y="470" type="line" name="_corner00"/>
+      <point x="113" y="-1" type="line" smooth="yes"/>
+      <point x="113" y="-152"/>
+      <point x="98" y="-198"/>
+      <point x="72" y="-198" type="curve" smooth="yes"/>
+      <point x="48" y="-198"/>
+      <point x="26" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.topSerif</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

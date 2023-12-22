@@ -1,0 +1,181 @@
+{
+color = 4;
+glyphname = k;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{278, 0}";
+},
+{
+name = top;
+position = "{260, 750}";
+}
+);
+background = {
+components = (
+{
+name = l;
+transform = "{1, 0, 0, 1, -5, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"173 0 LINE",
+"173 231 LINE",
+"211 266 LINE",
+"388 16 LINE",
+"390 16 LINE",
+"323 5 LINE",
+"323 0 LINE",
+"557 0 LINE",
+"557 5 LINE",
+"491 16 LINE",
+"270 320 LINE",
+"254 304 LINE",
+"433 447 LINE",
+"516 464 LINE",
+"516 470 LINE",
+"337 470 LINE",
+"337 464 LINE",
+"402 448 LINE",
+"403 448 LINE",
+"167 245 LINE",
+"161 245 LINE",
+"177 749 LINE",
+"165 750 LINE",
+"84 741 LINE",
+"84 0 LINE"
+);
+}
+);
+};
+hints = (
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.topSerif;
+},
+{
+origin = "{0, 0}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 21}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.lcSerif;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"173 0 LINE",
+"173 225 LINE",
+"209 257 LINE",
+"399 0 LINE",
+"496 0 LINE",
+"549 0 LINE",
+"549 6 LINE",
+"483 27 LINE",
+"270 320 LINE",
+"254 296 LINE",
+"432 446 LINE",
+"516 463 LINE",
+"516 470 LINE",
+"337 470 LINE",
+"337 463 LINE",
+"402 447 LINE",
+"403 447 LINE",
+"173 245 LINE",
+"172 245 LINE",
+"177 750 LINE",
+"84 750 LINE",
+"84 0 LINE"
+);
+}
+);
+width = 559;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{307, 0}";
+},
+{
+name = top;
+position = "{307, 750}";
+}
+);
+hints = (
+{
+origin = "{0, 19}";
+type = Corner;
+name = _corner.topSerif;
+},
+{
+origin = "{0, 0}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.lcSerif;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"222 0 LINE",
+"222 215 LINE",
+"244 237 LINE",
+"405 0 LINE",
+"545 0 LINE",
+"606 0 LINE",
+"606 10 LINE",
+"541 45 LINE",
+"350 332 LINE",
+"483 451 LINE",
+"567 466 LINE",
+"567 480 LINE",
+"388 480 LINE",
+"388 466 LINE",
+"459 452 LINE",
+"454 462 LINE",
+"226 260 LINE",
+"222 260 LINE",
+"226 749 LINE",
+"81 750 LINE",
+"81 0 LINE"
+);
+}
+);
+width = 596;
+}
+);
+leftKerningGroup = h;
+leftMetricsKey = l;
+rightKerningGroup = k;
+unicode = 006B;
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_h.liga" format="2">
+  <advance width="970"/>
+  <anchor x="65" y="0" name="bottom_1"/>
+  <anchor x="365" y="0" name="bottom_2"/>
+  <anchor x="288" y="0" name="caret_1"/>
+  <anchor x="294" y="750" name="top_1"/>
+  <anchor x="594" y="750" name="top_2"/>
+  <outline>
+    <component base="f"/>
+    <component base="h" xOffset="394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

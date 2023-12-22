@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = colon;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 376}";
+},
+{
+name = period;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 222;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 376}";
+},
+{
+name = period;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 222;
+}
+);
+leftKerningGroup = period;
+leftMetricsKey = period;
+rightKerningGroup = period;
+rightMetricsKey = period;
+unicode = 003A;
+}

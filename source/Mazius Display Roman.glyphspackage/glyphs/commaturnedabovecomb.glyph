@@ -1,0 +1,49 @@
+{
+export = 0;
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{112, 470}";
+},
+{
+name = top;
+position = "{112, 779}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{-0.85, 0, 0, -0.85, 212, 654}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 224;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{112, 480}";
+},
+{
+name = top;
+position = "{112, 789}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{-0.85, 0, 0, -0.85, 212, 654}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 274;
+}
+);
+leftKerningGroup = commaturnedabovecomb;
+rightKerningGroup = commaturnedabovecomb;
+unicode = 0312;
+}

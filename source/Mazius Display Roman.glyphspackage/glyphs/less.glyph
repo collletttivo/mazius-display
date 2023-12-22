@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = less;
+layers = (
+{
+components = (
+{
+name = greater;
+transform = "{-1, 0, 0, 1, 448, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 448;
+},
+{
+components = (
+{
+name = greater;
+transform = "{-1, 0, 0, 1, 453, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 453;
+}
+);
+leftKerningGroup = less;
+rightKerningGroup = less;
+unicode = 003C;
+}

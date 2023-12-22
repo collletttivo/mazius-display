@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = caron;
+layers = (
+{
+components = (
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, -30, 4}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 357;
+},
+{
+components = (
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 75, 20}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 426;
+}
+);
+leftKerningGroup = caroncomb;
+rightKerningGroup = caroncomb;
+unicode = 02C7;
+}

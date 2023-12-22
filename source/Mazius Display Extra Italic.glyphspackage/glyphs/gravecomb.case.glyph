@@ -1,0 +1,53 @@
+{
+color = 3;
+export = 0;
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"264 571 LINE",
+"232 708 LINE",
+"148 714 LINE",
+"140 702 LINE",
+"256 568 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 571 LINE",
+"248 716 LINE",
+"136 728 LINE",
+"124 704 LINE",
+"256 566 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = gravecomb.case;
+rightKerningGroup = gravecomb.case;
+}

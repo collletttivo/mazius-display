@@ -1,0 +1,53 @@
+{
+color = 8;
+glyphname = Lslash;
+layers = (
+{
+components = (
+{
+name = L;
+transform = "{1, 0, 0, 1, 40, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"442 461 LINE",
+"22 223 LINE",
+"38 196 LINE",
+"458 434 LINE"
+);
+}
+);
+width = 629;
+},
+{
+components = (
+{
+name = L;
+transform = "{1, 0, 0, 1, 49, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"491 536 LINE",
+"20 255 LINE",
+"44 215 LINE",
+"515 496 LINE"
+);
+}
+);
+width = 675;
+}
+);
+leftKerningGroup = H;
+leftMetricsKey = L;
+rightKerningGroup = L;
+rightMetricsKey = L;
+unicode = 0141;
+}

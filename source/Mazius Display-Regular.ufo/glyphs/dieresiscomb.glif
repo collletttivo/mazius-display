@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="400"/>
+  <unicode hex="0308"/>
+  <anchor x="168" y="450" name="_top"/>
+  <anchor x="168" y="667" name="top"/>
+  <outline>
+    <component base="period" xScale="0.8" yScale="0.8" xOffset="7" yOffset="563"/>
+    <component base="period" xScale="0.8" yScale="0.8" xOffset="152" yOffset="563"/>
+  </outline>
+</glyph>

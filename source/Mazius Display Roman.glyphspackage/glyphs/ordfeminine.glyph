@@ -1,0 +1,26 @@
+{
+glyphname = ordfeminine;
+layers = (
+{
+components = (
+{
+name = a;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 537;
+},
+{
+components = (
+{
+name = a;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 560;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = n;
+unicode = 00AA;
+}

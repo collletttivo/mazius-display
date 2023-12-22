@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="799"/>
+  <outline>
+    <component base="fraction" xScale="0.9114" yScale="0.7056" xOffset="187" yOffset="176" identifier="6D471AE2"/>
+    <component base="zerosuperior" xScale="0.9" yScale="0.9" xOffset="108" yOffset="85" identifier="C1C58EA9"/>
+    <component base="zerosuperior" xScale="0.9" yScale="0.9" xOffset="471" yOffset="-318" identifier="EB390776"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6D471AE2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C1C58EA9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EB390776</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

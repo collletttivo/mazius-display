@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior" format="2">
+  <advance width="293"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <component base="three" xScale="0.6332" yScale="0.6332" xOffset="123" yOffset="401" identifier="6ADC0E97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>three</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6ADC0E97</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

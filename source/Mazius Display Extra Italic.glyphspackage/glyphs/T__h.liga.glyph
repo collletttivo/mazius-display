@@ -1,0 +1,159 @@
+{
+export = 0;
+glyphname = T_h.liga;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"130 0 LINE",
+"230 0 LINE",
+"439 700 LINE",
+"339 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"140 36 LINE",
+"14 6 LINE",
+"13 0 LINE",
+"150 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"347 0 LINE",
+"348 6 LINE",
+"240 36 LINE",
+"210 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"217 681 LINE",
+"384 681 LINE",
+"390 700 LINE",
+"223 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"86 515 LINE",
+"92 515 LINE",
+"120 552 OFFCURVE",
+"249 700 OFFCURVE",
+"278 699 CURVE",
+"236 700 LINE SMOOTH",
+"226 700 OFFCURVE",
+"191 702 OFFCURVE",
+"178 704 CURVE",
+"165 704 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"714 706 OFFCURVE",
+"607 700 OFFCURVE",
+"390 700 CURVE",
+"384 681 LINE",
+"683 679 LINE",
+"796 750 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"576 22 LINE",
+"812 732 LINE",
+"810 738 OFFCURVE",
+"801 746 OFFCURVE",
+"796 750 CURVE",
+"652 687 LINE",
+"652 679 LINE",
+"705 701 LINE",
+"477 -7 LINE",
+"579 0 LINE",
+"588 22 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"585 16 LINE",
+"588 22 LINE SMOOTH",
+"665 190 OFFCURVE",
+"809 419 OFFCURVE",
+"850 436 CURVE",
+"868 430 OFFCURVE",
+"876 421 OFFCURVE",
+"876 404 CURVE SMOOTH",
+"876 369 OFFCURVE",
+"775 89 OFFCURVE",
+"775 31 CURVE",
+"790 8 OFFCURVE",
+"808 -9 OFFCURVE",
+"833 -19 CURVE",
+"975 54 LINE",
+"971 60 LINE",
+"861 7 LINE",
+"863 39 OFFCURVE",
+"978 338 OFFCURVE",
+"978 398 CURVE SMOOTH",
+"978 444 OFFCURVE",
+"950 484 OFFCURVE",
+"890 485 CURVE",
+"823 479 OFFCURVE",
+"656 196 OFFCURVE",
+"579 22 CURVE"
+);
+}
+);
+width = 1036;
+},
+{
+anchors = (
+{
+name = bottom_1;
+position = "{95, 0}";
+},
+{
+name = bottom_2;
+position = "{395, 0}";
+},
+{
+name = caret_1;
+position = "{318, 0}";
+},
+{
+name = center_1;
+position = "{202, 350}";
+},
+{
+name = center_2;
+position = "{502, 350}";
+},
+{
+name = top_1;
+position = "{309, 700}";
+},
+{
+name = top_2;
+position = "{609, 700}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 206;
+}
+);
+leftKerningGroup = T;
+leftMetricsKey = T;
+rightKerningGroup = T_h.liga;
+rightMetricsKey = h;
+}

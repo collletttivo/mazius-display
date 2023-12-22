@@ -1,0 +1,31 @@
+{
+color = 3;
+glyphname = exclamdown;
+layers = (
+{
+components = (
+{
+name = exclam;
+transform = "{-1, 0, 0, -1, 242, 727}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 242;
+},
+{
+components = (
+{
+name = exclam;
+transform = "{-1, 0, 0, -1, 256, 727}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 256;
+}
+);
+leftKerningGroup = exclamdown;
+leftMetricsKey = exclam;
+rightKerningGroup = exclamdown;
+rightMetricsKey = exclam;
+unicode = 00A1;
+}

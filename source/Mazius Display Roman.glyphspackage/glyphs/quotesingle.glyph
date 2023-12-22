@@ -1,0 +1,41 @@
+{
+color = 3;
+glyphname = quotesingle;
+layers = (
+{
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 536 LINE",
+"135 782 LINE",
+"95 801 LINE",
+"25 783 LINE",
+"69 536 LINE"
+);
+}
+);
+width = 160;
+},
+{
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"92 568 LINE",
+"155 824 LINE",
+"105 849 LINE",
+"25 825 LINE",
+"71 568 LINE"
+);
+}
+);
+width = 180;
+}
+);
+leftKerningGroup = quotesingle;
+rightKerningGroup = quotesingle;
+unicode = 0027;
+}

@@ -1,0 +1,164 @@
+{
+color = 3;
+glyphname = micro;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"460 0 LINE",
+"460 468 LINE",
+"446 470 LINE",
+"304 452 LINE",
+"304 446 LINE",
+"371 442 LINE",
+"371 107 LINE",
+"338 75 OFFCURVE",
+"290 56 OFFCURVE",
+"250 56 CURVE SMOOTH",
+"188 56 OFFCURVE",
+"157 92 OFFCURVE",
+"157 187 CURVE SMOOTH",
+"157 467 LINE",
+"141 470 LINE",
+"0 452 LINE",
+"0 446 LINE",
+"68 441 LINE",
+"68 151 LINE SMOOTH",
+"68 46 OFFCURVE",
+"119 -13 OFFCURVE",
+"224 -13 CURVE",
+"270 8 OFFCURVE",
+"334 55 OFFCURVE",
+"374 100 CURVE",
+"375 100 LINE",
+"375 0 LINE"
+);
+}
+);
+};
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"66 442 LINE",
+"67 -208 LINE",
+"156 -149 LINE",
+"140 -127 OFFCURVE",
+"115 -11 OFFCURVE",
+"114 25 CURVE",
+"139 3 OFFCURVE",
+"174 -9 OFFCURVE",
+"222 -12 CURVE",
+"241 -11 OFFCURVE",
+"333 53 OFFCURVE",
+"377 108 CURVE",
+"381 108 LINE",
+"372 2 LINE",
+"384 0 LINE",
+"526 0 LINE",
+"526 6 LINE",
+"458 23 LINE",
+"458 470 LINE",
+"300 453 LINE",
+"300 448 LINE",
+"369 445 LINE",
+"369 115 LINE",
+"329 67 OFFCURVE",
+"261 57 OFFCURVE",
+"236 57 CURVE SMOOTH",
+"192 57 OFFCURVE",
+"155 84 OFFCURVE",
+"155 187 CURVE SMOOTH",
+"155 470 LINE",
+"-5 453 LINE",
+"-5 448 LINE"
+);
+}
+);
+width = 536;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"97 4 LINE",
+"96 12 OFFCURVE",
+"95 20 OFFCURVE",
+"95 25 CURVE",
+"120 3 OFFCURVE",
+"155 -9 OFFCURVE",
+"203 -12 CURVE",
+"222 -11 OFFCURVE",
+"314 53 OFFCURVE",
+"358 108 CURVE",
+"362 108 LINE",
+"353 2 LINE",
+"365 0 LINE",
+"507 0 LINE",
+"507 6 LINE",
+"439 23 LINE",
+"439 470 LINE",
+"281 470 LINE",
+"281 465 LINE",
+"350 454 LINE",
+"350 115 LINE",
+"310 67 OFFCURVE",
+"242 57 OFFCURVE",
+"217 57 CURVE SMOOTH",
+"173 57 OFFCURVE",
+"136 84 OFFCURVE",
+"136 187 CURVE SMOOTH",
+"136 470 LINE",
+"-24 453 LINE",
+"-24 448 LINE",
+"47 442 LINE",
+"48 40 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"48 40 LINE",
+"48 -208 LINE",
+"137 -149 LINE",
+"123 -130 OFFCURVE",
+"103 -44 OFFCURVE",
+"97 4 CURVE"
+);
+}
+);
+};
+components = (
+{
+name = u;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"56 164 LINE",
+"57 -238 LINE",
+"178 -149 LINE",
+"164 -130 OFFCURVE",
+"141 -37 OFFCURVE",
+"136 19 CURVE"
+);
+}
+);
+width = 566;
+}
+);
+leftKerningGroup = micro;
+leftMetricsKey = u;
+rightKerningGroup = micro;
+rightMetricsKey = u;
+unicode = 00B5;
+}

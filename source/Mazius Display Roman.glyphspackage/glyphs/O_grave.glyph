@@ -1,0 +1,36 @@
+{
+color = 8;
+glyphname = Ograve;
+layers = (
+{
+components = (
+{
+name = O;
+},
+{
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 194, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 766;
+},
+{
+components = (
+{
+name = O;
+},
+{
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 231, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 788;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+rightMetricsKey = O;
+unicode = 00D2;
+}

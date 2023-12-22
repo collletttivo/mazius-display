@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="414"/>
+  <outline>
+    <contour>
+      <point x="263" y="246" type="move"/>
+    </contour>
+    <component base="two" xOffset="-12" yOffset="226"/>
+  </outline>
+</glyph>

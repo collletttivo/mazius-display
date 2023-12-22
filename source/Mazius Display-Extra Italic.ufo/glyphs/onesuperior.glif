@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="295"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <component base="one" xScale="0.7018" yScale="0.7018" xOffset="106" yOffset="370" identifier="441DEB24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>441DEB24</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,100 @@
+{
+export = 0;
+glyphname = c_t.dlig;
+layers = (
+{
+components = (
+{
+name = c;
+},
+{
+name = t;
+transform = "{1, 0, 0, 1, 360, 0}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"644 628 LINE",
+"603 628 OFFCURVE",
+"314 563 OFFCURVE",
+"314 474 CURVE SMOOTH",
+"314 433 OFFCURVE",
+"367 437 OFFCURVE",
+"400 436 CURVE",
+"400 442 LINE",
+"369 445 OFFCURVE",
+"358 447 OFFCURVE",
+"355 473 CURVE",
+"355 547 OFFCURVE",
+"541 607 OFFCURVE",
+"616 607 CURVE"
+);
+}
+);
+width = 644;
+},
+{
+anchors = (
+{
+name = bottom_1;
+position = "{77, 0}";
+},
+{
+name = bottom_2;
+position = "{377, 0}";
+},
+{
+name = caret_1;
+position = "{300, 0}";
+},
+{
+name = top_1;
+position = "{223, 480}";
+},
+{
+name = top_2;
+position = "{523, 480}";
+}
+);
+components = (
+{
+name = c;
+},
+{
+name = t;
+transform = "{1, 0, 0, 1, 412, 0}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"730 628 LINE",
+"689 628 OFFCURVE",
+"344 573 OFFCURVE",
+"344 484 CURVE SMOOTH",
+"344 443 OFFCURVE",
+"397 447 OFFCURVE",
+"430 446 CURVE",
+"430 452 LINE",
+"399 455 OFFCURVE",
+"388 457 OFFCURVE",
+"385 483 CURVE",
+"385 557 OFFCURVE",
+"591 583 OFFCURVE",
+"666 583 CURVE"
+);
+}
+);
+width = 736;
+}
+);
+leftKerningGroup = o;
+leftMetricsKey = c;
+rightKerningGroup = c_t.dlig;
+rightMetricsKey = t;
+}

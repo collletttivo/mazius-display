@@ -1,0 +1,39 @@
+{
+color = 5;
+glyphname = quotedblright;
+layers = (
+{
+components = (
+{
+name = quotesinglbase;
+transform = "{1, 0, 0, 1, 297, 664}";
+},
+{
+name = quotesinglbase;
+transform = "{1, 0, 0, 1, 171, 664}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 326;
+},
+{
+components = (
+{
+name = quotesinglbase;
+transform = "{1, 0, 0, 1, 177, 646}";
+},
+{
+name = quotesinglbase;
+transform = "{1, 0, 0, 1, 329, 646}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 374;
+}
+);
+leftKerningGroup = quoteright;
+leftMetricsKey = quoteright;
+rightKerningGroup = quoteright;
+rightMetricsKey = quoteright;
+unicode = 201D;
+}

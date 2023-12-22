@@ -1,0 +1,54 @@
+{
+glyphname = micro;
+layers = (
+{
+components = (
+{
+name = u;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"32 105 LINE",
+"-57 -208 LINE",
+"50 -149 LINE",
+"40 -127 OFFCURVE",
+"51 39 OFFCURVE",
+"61 76 CURVE"
+);
+}
+);
+width = 501;
+},
+{
+components = (
+{
+name = u;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"48 172 LINE",
+"-58 -227 LINE",
+"82 -149 LINE",
+"72 -127 OFFCURVE",
+"83 39 OFFCURVE",
+"93 76 CURVE"
+);
+}
+);
+width = 584;
+}
+);
+leftKerningGroup = micro;
+leftMetricsKey = u;
+rightKerningGroup = micro;
+rightMetricsKey = idotless;
+unicode = 00B5;
+}

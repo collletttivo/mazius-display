@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="604"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="d" identifier="BED605E8"/>
+    <component base="caroncomb.alt" xOffset="229" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BED605E8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="591"/>
+  <unicode hex="0054"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="428" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="156" y="0" type="line" name="_corner01"/>
+      <point x="306" y="0" type="line" name="_corner00"/>
+      <point x="506" y="700" type="line"/>
+      <point x="356" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="460" type="line"/>
+      <point x="108" y="458" type="line"/>
+      <point x="240" y="672" type="line"/>
+      <point x="594" y="672" type="line"/>
+      <point x="633" y="460" type="line"/>
+      <point x="649" y="460" type="line"/>
+      <point x="711" y="700" type="line"/>
+      <point x="131" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>scale</key>
+          <string>{1.2, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.leftSerif.cap</string>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>scale</key>
+          <string>{1.04, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

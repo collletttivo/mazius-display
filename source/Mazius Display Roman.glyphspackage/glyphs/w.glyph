@@ -1,0 +1,220 @@
+{
+color = 3;
+glyphname = w;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{370, 0}";
+},
+{
+name = top;
+position = "{370, 470}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"407 470 LINE",
+"390 470 LINE",
+"246 -2 LINE",
+"262 -2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"124 453 LINE",
+"186 466 LINE",
+"186 470 LINE",
+"110 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-31 470 LINE",
+"-31 466 LINE",
+"31 453 LINE",
+"42 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"251 -2 LINE",
+"272 -2 LINE",
+"261 28 LINE",
+"120 470 LINE",
+"24 470 LINE",
+"177 -7 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"704 470 LINE",
+"687 470 LINE",
+"539 -2 LINE",
+"559 -2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 -2 LINE",
+"559 -2 LINE",
+"548 28 LINE",
+"407 470 LINE",
+"309 470 LINE",
+"471 -7 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"681 448 LINE",
+"697 447 LINE",
+"775 464 LINE",
+"775 470 LINE",
+"611 470 LINE",
+"611 464 LINE"
+);
+}
+);
+};
+hints = (
+{
+origin = "{0, 0}";
+scale = "{-0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 14}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 7}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 8}";
+scale = "{-1.2, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"24 470 LINE",
+"180 -14 LINE",
+"272 -2 LINE",
+"373 361 LINE",
+"357 328 LINE",
+"474 -14 LINE",
+"557 -2 LINE",
+"688 470 LINE",
+"671 470 LINE",
+"548 27 LINE",
+"407 470 LINE",
+"309 470 LINE",
+"352 345 LINE",
+"263 27 LINE",
+"120 470 LINE"
+);
+}
+);
+width = 723;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{433, 0}";
+},
+{
+name = top;
+position = "{433, 480}";
+}
+);
+background = {
+components = (
+{
+name = v;
+transform = "{1, 0, 0, 1, -13, 0}";
+}
+);
+};
+hints = (
+{
+origin = "{1, 0}";
+scale = "{0.9, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{1, 1}";
+scale = "{-1.5, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 3}";
+scale = "{1.3, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 4}";
+scale = "{-0.75, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"467 480 LINE",
+"436 480 LINE",
+"324 49 LINE",
+"182 480 LINE",
+"39 480 LINE",
+"195 -20 LINE",
+"335 -2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"763 480 LINE",
+"731 480 LINE",
+"623 52 LINE",
+"491 480 LINE",
+"358 480 LINE",
+"494 -20 LINE",
+"631 -2 LINE"
+);
+}
+);
+width = 796;
+}
+);
+leftKerningGroup = w;
+rightKerningGroup = w;
+unicode = 0077;
+}

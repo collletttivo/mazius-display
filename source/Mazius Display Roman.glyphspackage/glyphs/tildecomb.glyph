@@ -1,0 +1,130 @@
+{
+export = 0;
+glyphname = tildecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{192, 542}";
+},
+{
+name = top;
+position = "{200, 719}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"96 599 LINE",
+"96 629 OFFCURVE",
+"110 649 OFFCURVE",
+"133 649 CURVE SMOOTH",
+"156 649 OFFCURVE",
+"200 614 OFFCURVE",
+"244 614 CURVE",
+"257 621 OFFCURVE",
+"317 657 OFFCURVE",
+"317 714 CURVE",
+"304 714 LINE",
+"304 683 OFFCURVE",
+"290 664 OFFCURVE",
+"267 664 CURVE SMOOTH",
+"244 664 OFFCURVE",
+"200 699 OFFCURVE",
+"156 699 CURVE",
+"143 692 OFFCURVE",
+"83 656 OFFCURVE",
+"83 599 CURVE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{287, 551}";
+},
+{
+name = top;
+position = "{300, 738}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"175 593 LINE",
+"175 629 OFFCURVE",
+"192 638 OFFCURVE",
+"220 638 CURVE SMOOTH",
+"260 639 OFFCURVE",
+"315 627 OFFCURVE",
+"351 627 CURVE",
+"362 633 OFFCURVE",
+"445 684 OFFCURVE",
+"445 750 CURVE",
+"425 750 LINE",
+"425 715 OFFCURVE",
+"418 707 OFFCURVE",
+"398 706 CURVE SMOOTH",
+"368 704 OFFCURVE",
+"320 720 OFFCURVE",
+"266 720 CURVE",
+"250 711 OFFCURVE",
+"155 660 OFFCURVE",
+"155 593 CURVE"
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 470}";
+}
+);
+associatedMasterId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+layerId = "EA8ED69E-F84B-4235-923B-5136F5103C03";
+name = "1 feb 22, 11:39";
+paths = (
+{
+closed = 1;
+nodes = (
+"67 574 LINE",
+"67 611 OFFCURVE",
+"90 621 OFFCURVE",
+"122 622 CURVE SMOOTH",
+"161 622 OFFCURVE",
+"211 609 OFFCURVE",
+"250 609 CURVE",
+"263 616 OFFCURVE",
+"340 666 OFFCURVE",
+"340 729 CURVE",
+"333 729 LINE",
+"333 693 OFFCURVE",
+"315 684 OFFCURVE",
+"285 684 CURVE SMOOTH",
+"252 684 OFFCURVE",
+"205 695 OFFCURVE",
+"150 695 CURVE",
+"131 685 OFFCURVE",
+"60 638 OFFCURVE",
+"60 574 CURVE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = tildecomb;
+rightKerningGroup = tildecomb;
+unicode = 0303;
+}

@@ -1,0 +1,47 @@
+{
+export = 0;
+glyphname = caroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 700}";
+},
+{
+name = top;
+position = "{200, 878}";
+}
+);
+components = (
+{
+name = circumflexcomb.case;
+transform = "{-1, 0, 0, -1, 400, 1628}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{151, 684}";
+},
+{
+name = top;
+position = "{151, 878}";
+}
+);
+components = (
+{
+alignment = -1;
+name = circumflexcomb.case;
+transform = "{1, 0, 0, -1, 22, 1628}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 600;
+}
+);
+}

@@ -1,0 +1,62 @@
+{
+export = 0;
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{202, 496}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"200 626 LINE",
+"202 626 LINE",
+"303 552 LINE",
+"308 557 LINE",
+"205 718 LINE",
+"197 718 LINE",
+"91 557 LINE",
+"96 552 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{129, 504}";
+},
+{
+name = top;
+position = "{129, 714}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"130 631 LINE",
+"263 551 LINE",
+"272 559 LINE",
+"139 739 LINE",
+"119 739 LINE",
+"-14 559 LINE",
+"-6 551 LINE"
+);
+}
+);
+width = 251;
+}
+);
+leftKerningGroup = circumflexcomb;
+rightKerningGroup = circumflexcomb;
+unicode = 0302;
+}

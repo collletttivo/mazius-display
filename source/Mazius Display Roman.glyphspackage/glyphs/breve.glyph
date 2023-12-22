@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = breve;
+layers = (
+{
+components = (
+{
+name = brevecomb;
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 340;
+},
+{
+components = (
+{
+name = brevecomb;
+transform = "{1, 0, 0, 1, -101, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 398;
+}
+);
+leftKerningGroup = brevecomb;
+rightKerningGroup = brevecomb;
+unicode = 02D8;
+}

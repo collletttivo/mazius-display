@@ -1,0 +1,53 @@
+{
+color = 3;
+export = 0;
+glyphname = acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"374 700 LINE",
+"366 712 LINE",
+"272 704 LINE",
+"184 574 LINE",
+"191 568 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"352 700 LINE",
+"338 726 LINE",
+"224 720 LINE",
+"146 576 LINE",
+"156 566 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = acutecomb.case;
+rightKerningGroup = acutecomb.case;
+}

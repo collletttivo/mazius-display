@@ -1,0 +1,37 @@
+{
+color = 8;
+glyphname = idieresis;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, -33, 20}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 264;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 315;
+}
+);
+leftKerningGroup = i;
+leftMetricsKey = i;
+rightKerningGroup = i;
+rightMetricsKey = i;
+unicode = 00EF;
+}

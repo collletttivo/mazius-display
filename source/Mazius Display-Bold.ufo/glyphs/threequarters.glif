@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="877"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="fraction" xOffset="107" identifier="F955D19C"/>
+    <component base="foursuperior" xOffset="441" yOffset="-484"/>
+    <component base="threesuperior" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F955D19C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

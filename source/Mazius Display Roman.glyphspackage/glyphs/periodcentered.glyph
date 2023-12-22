@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = periodcentered;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 1, 205}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 214;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -10, 193}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 192;
+}
+);
+leftKerningGroup = period;
+rightKerningGroup = period;
+unicode = 00B7;
+}

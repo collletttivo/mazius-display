@@ -1,0 +1,16 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 200;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 180;
+}
+);
+leftKerningGroup = space;
+rightKerningGroup = space;
+unicode = 0020;
+}

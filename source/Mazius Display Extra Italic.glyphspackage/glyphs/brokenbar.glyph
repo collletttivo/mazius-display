@@ -1,0 +1,56 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"150 310 LINE",
+"285 750 LINE",
+"243 750 LINE",
+"108 310 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-21 -250 LINE",
+"113 190 LINE",
+"71 190 LINE",
+"-63 -250 LINE"
+);
+}
+);
+width = 213;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"-3 -250 LINE",
+"131 189 LINE",
+"68 189 LINE",
+"-67 -251 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"168 310 LINE",
+"302 750 LINE",
+"239 750 LINE",
+"105 310 LINE"
+);
+}
+);
+width = 233;
+}
+);
+leftKerningGroup = brokenbar;
+rightKerningGroup = brokenbar;
+unicode = 00A6;
+}

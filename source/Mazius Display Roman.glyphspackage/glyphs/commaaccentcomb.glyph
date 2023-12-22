@@ -1,0 +1,45 @@
+{
+export = 0;
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{201, -25}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{0.9, 0, 0, 0.9, 93, -180}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 400;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{285, 0}";
+},
+{
+name = bottom;
+position = "{285, -287}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{0.85349, 0, 0, 0.85349, 184, -151}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 600;
+}
+);
+leftKerningGroup = comma;
+rightKerningGroup = period;
+unicode = 0326;
+}

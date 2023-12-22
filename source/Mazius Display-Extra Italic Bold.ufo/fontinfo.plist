@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>750</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>copyright</key>
+    <string>© 2023, Alberto Casagrande &amp; Collletttivo</string>
+    <key>descender</key>
+    <integer>-250</integer>
+    <key>familyName</key>
+    <string>Mazius Display</string>
+    <key>italicAngle</key>
+    <integer>-17</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2022/04/14 00:13:34</string>
+    <key>openTypeHheaAscender</key>
+    <integer>956</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-256</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>120</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Alberto Casagrande &amp; Collletttivo</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL Open Font License</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Collletttivo</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://www.collletttivo.it</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Extra Italic Bold</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>956</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-256</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>120</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>CLT</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>700</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>956</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>302</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-14</integer>
+      <integer>0</integer>
+      <integer>490</integer>
+      <integer>504</integer>
+      <integer>700</integer>
+      <integer>714</integer>
+      <integer>750</integer>
+      <integer>764</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>MaziusDisplay-ExtraItalicBold</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-264</integer>
+      <integer>-250</integer>
+    </array>
+    <key>styleMapFamilyName</key>
+    <string>Mazius Display Extra Italic</string>
+    <key>styleMapStyleName</key>
+    <string>bold</string>
+    <key>styleName</key>
+    <string>Extra Italic Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>490</integer>
+  </dict>
+</plist>

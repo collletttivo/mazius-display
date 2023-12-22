@@ -1,0 +1,49 @@
+{
+glyphname = Oslash;
+layers = (
+{
+components = (
+{
+name = O;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"746 700 LINE",
+"734 716 LINE",
+"-22 14 LINE",
+"-10 -2 LINE"
+);
+}
+);
+width = 644;
+},
+{
+components = (
+{
+name = O;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"748 700 LINE",
+"732 718 LINE",
+"-24 14 LINE",
+"-8 -4 LINE"
+);
+}
+);
+width = 648;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+rightMetricsKey = O;
+unicode = 00D8;
+}

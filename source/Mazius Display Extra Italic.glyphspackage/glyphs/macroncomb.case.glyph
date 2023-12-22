@@ -1,0 +1,50 @@
+{
+export = 0;
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"352 624 LINE",
+"356 654 LINE",
+"114 654 LINE",
+"110 624 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"362 621 LINE",
+"366 657 LINE",
+"102 657 LINE",
+"98 621 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = macroncomb;
+rightKerningGroup = macroncomb;
+}

@@ -1,0 +1,53 @@
+{
+color = 3;
+glyphname = exclam;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 195 LINE",
+"176 722 LINE",
+"136 741 LINE",
+"66 723 LINE",
+"110 195 LINE"
+);
+}
+);
+width = 242;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 17, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"133 195 LINE",
+"206 722 LINE",
+"143 760 LINE",
+"50 723 LINE",
+"113 195 LINE"
+);
+}
+);
+width = 256;
+}
+);
+leftKerningGroup = exclam;
+rightKerningGroup = exclam;
+unicode = 0021;
+}

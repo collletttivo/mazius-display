@@ -1,0 +1,36 @@
+{
+color = 8;
+glyphname = abreve;
+layers = (
+{
+components = (
+{
+name = a;
+},
+{
+name = brevecomb;
+transform = "{1, 0, 0, 1, 70, -27}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 537;
+},
+{
+components = (
+{
+name = a;
+},
+{
+name = brevecomb;
+transform = "{1, 0, 0, 1, -16, -37}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 560;
+}
+);
+leftKerningGroup = a;
+widthMetricsKey = a;
+rightKerningGroup = n;
+unicode = 0103;
+}

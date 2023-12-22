@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="563"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="fraction" xOffset="8" identifier="0A937DB7"/>
+    <component base="onesuperior" xOffset="-22"/>
+    <component base="four" xScale="0.6193" yScale="0.6193" xOffset="237" yOffset="-95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0A937DB7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

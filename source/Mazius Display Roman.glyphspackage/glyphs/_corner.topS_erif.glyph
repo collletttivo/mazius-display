@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = _corner.topSerif;
+layers = (
+{
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 0;
+nodes = (
+"71 3 LINE",
+"-69 -33 LINE",
+"-69 -40 LINE",
+"-1 -35 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 0;
+nodes = (
+"116 4 LINE",
+"-70 -45 LINE",
+"-70 -55 LINE",
+"0 -50 LINE"
+);
+}
+);
+width = 600;
+}
+);
+}

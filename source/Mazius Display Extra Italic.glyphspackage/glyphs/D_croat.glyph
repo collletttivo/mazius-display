@@ -1,0 +1,26 @@
+{
+glyphname = Dcroat;
+layers = (
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 656;
+},
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 682;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = O;
+unicode = 0110;
+}

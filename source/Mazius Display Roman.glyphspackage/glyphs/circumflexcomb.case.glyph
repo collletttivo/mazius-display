@@ -1,0 +1,65 @@
+{
+export = 0;
+glyphname = circumflexcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 700}";
+},
+{
+name = top;
+position = "{200, 878}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"199 801 LINE",
+"203 801 LINE",
+"325 750 LINE",
+"331 757 LINE",
+"206 878 LINE",
+"196 878 LINE",
+"69 757 LINE",
+"74 750 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{129, 700}";
+},
+{
+name = top;
+position = "{129, 888}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"127 802 LINE",
+"280 729 LINE",
+"291 740 LINE",
+"159 888 LINE",
+"99 888 LINE",
+"-33 740 LINE",
+"-23 729 LINE"
+);
+}
+);
+width = 251;
+}
+);
+leftKerningGroup = circumflexcomb.case;
+rightKerningGroup = circumflexcomb.case;
+}

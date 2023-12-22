@@ -1,0 +1,61 @@
+{
+glyphname = greaterequal;
+layers = (
+{
+components = (
+{
+name = greater;
+transform = "{1, 0, 0, 1, 6, 20}";
+},
+{
+name = minus;
+transform = "{0.9, 0, 0, 1, 19, -161}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 502;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"465 168 LINE",
+"189 280 LINE",
+"463 402 LINE",
+"447 436 LINE",
+"117 289 LINE",
+"117 269 LINE",
+"449 134 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"461 94 LINE",
+"117 94 LINE",
+"117 56 LINE",
+"461 56 LINE"
+);
+}
+);
+};
+components = (
+{
+name = greater;
+transform = "{1, 0, 0, 1, 18, 60}";
+},
+{
+name = minus;
+transform = "{0.95155, 0, 0, 0.9, -22, -165}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 473;
+}
+);
+leftKerningGroup = greaterequal;
+rightKerningGroup = greaterequal;
+unicode = 2265;
+}

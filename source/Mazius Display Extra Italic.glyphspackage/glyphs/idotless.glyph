@@ -1,0 +1,167 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{98, 0}";
+},
+{
+name = top;
+position = "{189, 470}";
+}
+);
+hints = (
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+},
+{
+origin = "{0, 0}";
+scale = "{1.48, 1}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"98 0 LINE",
+"234 480 LINE",
+"218 486 LINE",
+"142 456 LINE",
+"14 12 LINE",
+"76 -16 LINE"
+);
+}
+);
+width = 255;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{148, 0}";
+},
+{
+name = top;
+position = "{220, 490}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+scale = "{1.36, 1}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"154 4 LINE",
+"288 488 LINE",
+"228 508 LINE",
+"145 476 LINE",
+"18 24 LINE",
+"122 -18 LINE"
+);
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = top;
+position = "{220, 490}";
+}
+);
+associatedMasterId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+hints = (
+{
+origin = "{0, 0}";
+scale = "{1.32, 1}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+}
+);
+layerId = "98D631BD-9D44-4B78-B058-4F078BBE6F75";
+name = "10 apr 22, 12:10";
+paths = (
+{
+closed = 1;
+nodes = (
+"156 4 LINE",
+"291 484 LINE",
+"229 508 LINE",
+"145 476 LINE",
+"19 36 LINE",
+"124 -18 LINE"
+);
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{228, 0}";
+},
+{
+name = ogonek;
+position = "{96, 0}";
+},
+{
+name = top;
+position = "{243, 495}";
+}
+);
+associatedMasterId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+layerId = "2F08CFD0-77E2-43CD-A14B-BA216EDCF5CF";
+name = "9 apr 22, 11:39";
+paths = (
+{
+closed = 1;
+nodes = (
+"24 24 LINE",
+"33 1 OFFCURVE",
+"54 -19 OFFCURVE",
+"76 -30 CURVE",
+"162 15 LINE",
+"327 499 LINE",
+"317 506 LINE",
+"169 454 LINE"
+);
+}
+);
+width = 326;
+}
+);
+leftKerningGroup = idotless;
+rightKerningGroup = idotless;
+unicode = 0131;
+}

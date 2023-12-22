@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = quotedblleft;
+layers = (
+{
+components = (
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 422, 672}";
+},
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 241, 672}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 391;
+},
+{
+components = (
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 222, 692}";
+},
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 414, 692}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 357;
+}
+);
+leftKerningGroup = quoteleft;
+rightKerningGroup = quoteleft;
+unicode = 201C;
+}

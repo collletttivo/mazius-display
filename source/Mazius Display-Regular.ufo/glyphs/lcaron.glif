@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="409"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l" xOffset="-5" identifier="2D3CD1CF"/>
+    <component base="caroncomb.alt" xOffset="-5" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2D3CD1CF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

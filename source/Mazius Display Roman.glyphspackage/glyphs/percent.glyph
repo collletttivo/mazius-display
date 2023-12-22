@@ -1,0 +1,70 @@
+{
+color = 3;
+glyphname = percent;
+layers = (
+{
+background = {
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{0.9114, 0, 0, 0.70555, 187, 176}";
+},
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{0.9, 0, 0, 0.9, 108, 85}";
+},
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{0.9, 0, 0, 0.9, 471, -318}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{1, 0, 0, 1, 32, 75}";
+},
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 99, 0}";
+},
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{1, 0, 0, 1, 380, -598}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 799;
+},
+{
+components = (
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{1, 0, 0, 1, 32, 75}";
+},
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 99, 0}";
+},
+{
+alignment = -1;
+name = zerosuperior;
+transform = "{1, 0, 0, 1, 431, -598}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 857;
+}
+);
+leftKerningGroup = percent;
+rightKerningGroup = percent;
+unicode = 0025;
+}

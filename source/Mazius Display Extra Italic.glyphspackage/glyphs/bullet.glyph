@@ -1,0 +1,55 @@
+{
+color = 3;
+glyphname = bullet;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"259 180 OFFCURVE",
+"304 225 OFFCURVE",
+"304 284 CURVE SMOOTH",
+"304 343 OFFCURVE",
+"259 388 OFFCURVE",
+"202 388 CURVE SMOOTH",
+"145 388 OFFCURVE",
+"100 343 OFFCURVE",
+"100 284 CURVE SMOOTH",
+"100 225 OFFCURVE",
+"145 180 OFFCURVE",
+"202 180 CURVE SMOOTH"
+);
+}
+);
+width = 374;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"256 180 OFFCURVE",
+"301 225 OFFCURVE",
+"301 284 CURVE SMOOTH",
+"301 343 OFFCURVE",
+"256 388 OFFCURVE",
+"199 388 CURVE SMOOTH",
+"142 388 OFFCURVE",
+"97 343 OFFCURVE",
+"97 284 CURVE SMOOTH",
+"97 225 OFFCURVE",
+"142 180 OFFCURVE",
+"199 180 CURVE SMOOTH"
+);
+}
+);
+width = 374;
+}
+);
+leftKerningGroup = bullet;
+rightKerningGroup = bullet;
+unicode = 2022;
+}

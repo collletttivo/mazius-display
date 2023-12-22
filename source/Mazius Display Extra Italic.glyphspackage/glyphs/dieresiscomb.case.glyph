@@ -1,0 +1,38 @@
+{
+export = 0;
+glyphname = dieresiscomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+components = (
+{
+name = dieresiscomb;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{216, 520}";
+}
+);
+components = (
+{
+name = dieresiscomb;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 400;
+}
+);
+leftKerningGroup = dieresiscomb.case;
+rightKerningGroup = dieresiscomb.case;
+}

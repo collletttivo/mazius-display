@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_i.dlig" format="2">
+  <advance width="486"/>
+  <anchor x="95" y="0" name="bottom_1"/>
+  <anchor x="395" y="0" name="bottom_2"/>
+  <anchor x="318" y="0" name="caret_1"/>
+  <anchor x="202" y="350" name="center_1"/>
+  <anchor x="502" y="350" name="center_2"/>
+  <anchor x="309" y="700" name="top_1"/>
+  <anchor x="609" y="700" name="top_2"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

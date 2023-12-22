@@ -1,0 +1,42 @@
+{
+color = 3;
+glyphname = parenright;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"170 -250 LINE",
+"262 -250 LINE",
+"262 750 LINE",
+"170 750 LINE"
+);
+}
+);
+};
+components = (
+{
+name = parenleft;
+transform = "{-1, 0, 0, -1, 347, 500}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 347;
+},
+{
+components = (
+{
+name = parenleft;
+transform = "{-1, 0, 0, -1, 347, 500}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 367;
+}
+);
+leftKerningGroup = parenright;
+rightKerningGroup = parenright;
+unicode = 0029;
+}

@@ -1,0 +1,37 @@
+{
+color = 8;
+glyphname = atilde;
+layers = (
+{
+components = (
+{
+name = a;
+},
+{
+name = tildecomb;
+transform = "{1, 0, 0, 1, 78, -72}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 537;
+},
+{
+components = (
+{
+name = a;
+},
+{
+name = tildecomb;
+transform = "{1, 0, 0, 1, -7, -71}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 560;
+}
+);
+leftKerningGroup = a;
+leftMetricsKey = a;
+rightKerningGroup = n;
+rightMetricsKey = a;
+unicode = 00E3;
+}

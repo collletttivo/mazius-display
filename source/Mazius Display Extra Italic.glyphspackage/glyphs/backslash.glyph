@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = backslash;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"478 -250 LINE",
+"171 750 LINE",
+"145 750 LINE",
+"451 -250 LINE"
+);
+}
+);
+width = 504;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"479 -250 LINE",
+"172 750 LINE",
+"138 750 LINE",
+"444 -250 LINE"
+);
+}
+);
+width = 504;
+}
+);
+leftKerningGroup = backslash;
+rightKerningGroup = backslash;
+unicode = 005C;
+}

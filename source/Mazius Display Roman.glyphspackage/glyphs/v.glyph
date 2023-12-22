@@ -1,0 +1,180 @@
+{
+color = 3;
+glyphname = v;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{242, 0}";
+},
+{
+name = top;
+position = "{242, 470}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"438 470 LINE",
+"417 470 LINE",
+"263 -2 LINE",
+"283 -2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"135 453 LINE",
+"197 466 LINE",
+"197 470 LINE",
+"121 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-20 470 LINE",
+"-20 466 LINE",
+"42 453 LINE",
+"53 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 -2 LINE",
+"283 -2 LINE",
+"272 28 LINE",
+"131 470 LINE",
+"35 470 LINE",
+"188 -14 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"409 448 LINE",
+"431 447 LINE",
+"509 464 LINE",
+"509 470 LINE",
+"345 470 LINE",
+"345 464 LINE"
+);
+}
+);
+};
+hints = (
+{
+origin = "{0, 0}";
+scale = "{0.8, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 1}";
+scale = "{-1.14286, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{1, 3}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{1, 4}";
+scale = "{-0.7, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"438 470 LINE",
+"416 470 LINE",
+"276 0 LINE",
+"294 -2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 -2 LINE",
+"294 -2 LINE",
+"295 5 LINE",
+"131 470 LINE",
+"35 470 LINE",
+"204 -14 LINE"
+);
+}
+);
+width = 478;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{300, 0}";
+},
+{
+name = top;
+position = "{300, 480}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 1}";
+scale = "{-1.45, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+},
+{
+origin = "{0, 3}";
+scale = "{1.3, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 4}";
+scale = "{-0.75, 1}";
+type = Corner;
+name = _corner.lcSerif;
+options = 1;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"502 480 LINE",
+"470 480 LINE",
+"352 53 LINE",
+"200 480 LINE",
+"52 480 LINE",
+"220 -20 LINE",
+"362 -2 LINE"
+);
+}
+);
+width = 561;
+}
+);
+leftKerningGroup = v;
+rightKerningGroup = v;
+unicode = 0076;
+}

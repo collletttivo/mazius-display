@@ -1,0 +1,76 @@
+{
+export = 0;
+glyphname = brevecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 565}";
+},
+{
+name = top;
+position = "{200, 724}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"276 600 OFFCURVE",
+"320 646 OFFCURVE",
+"320 724 CURVE",
+"304 724 LINE",
+"304 682 OFFCURVE",
+"268 660 OFFCURVE",
+"200 660 CURVE SMOOTH",
+"132 660 OFFCURVE",
+"96 682 OFFCURVE",
+"96 724 CURVE",
+"80 724 LINE",
+"80 646 OFFCURVE",
+"124 600 OFFCURVE",
+"200 600 CURVE SMOOTH"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{303, 643}";
+},
+{
+name = top;
+position = "{303, 818}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"407 683 OFFCURVE",
+"450 761 OFFCURVE",
+"450 828 CURVE",
+"427 828 LINE",
+"427 782 OFFCURVE",
+"364 769 OFFCURVE",
+"303 769 CURVE SMOOTH",
+"242 769 OFFCURVE",
+"179 782 OFFCURVE",
+"179 828 CURVE",
+"156 828 LINE",
+"156 761 OFFCURVE",
+"199 683 OFFCURVE",
+"303 683 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+}

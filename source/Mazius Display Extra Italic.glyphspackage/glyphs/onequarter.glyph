@@ -1,0 +1,46 @@
+{
+glyphname = onequarter;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 8, 0}";
+},
+{
+name = onesuperior;
+transform = "{1, 0, 0, 1, -22, 0}";
+},
+{
+name = four;
+transform = "{0.61933, 0, 0, 0.61933, 237, -95}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 563;
+},
+{
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 58, 0}";
+},
+{
+name = four;
+transform = "{0.60887, 0, 0, 0.60887, 297, -94}";
+},
+{
+name = onesuperior;
+transform = "{1, 0, 0, 1, -16, 0}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 688;
+}
+);
+leftKerningGroup = fraction;
+rightKerningGroup = fraction;
+unicode = 00BC;
+}

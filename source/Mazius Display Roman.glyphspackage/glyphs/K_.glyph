@@ -1,0 +1,184 @@
+{
+color = 4;
+glyphname = K;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{347, 0}";
+},
+{
+name = top;
+position = "{347, 700}";
+}
+);
+hints = (
+{
+origin = "{1, 1}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{1, 2}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+},
+{
+origin = "{1, 0}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{1, 3}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 1}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"207 285 LINE",
+"583 700 LINE",
+"554 700 LINE",
+"198 304 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 0 LINE",
+"212 699 LINE",
+"112 700 LINE",
+"112 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 0 LINE",
+"622 -1 LINE",
+"691 47 LINE",
+"685 56 LINE",
+"619 19 LINE",
+"583 19 OFFCURVE",
+"404 338 OFFCURVE",
+"369 413 CURVE",
+"275 371 LINE"
+);
+}
+);
+width = 664;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{391, 0}";
+},
+{
+name = top;
+position = "{391, 700}";
+}
+);
+hints = (
+{
+origin = "{0, 3}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 4}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+},
+{
+origin = "{1, 1}";
+scale = "{-0.6, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{1, 2}";
+scale = "{1.2, 1}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+},
+{
+origin = "{0, 0}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 1}";
+scale = "{0.81, 1}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"112 0 LINE",
+"270 0 LINE",
+"270 318 LINE",
+"270 700 LINE",
+"112 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 157 LINE",
+"649 700 LINE",
+"616 700 LINE",
+"125 184 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 357 LINE",
+"504 0 LINE",
+"692 -1 LINE",
+"761 47 LINE",
+"747 62 LINE",
+"686 25 LINE",
+"654 25 OFFCURVE",
+"506 312 OFFCURVE",
+"449 406 CURVE"
+);
+}
+);
+width = 727;
+}
+);
+leftKerningGroup = H;
+leftMetricsKey = H;
+rightKerningGroup = K;
+unicode = 004B;
+}

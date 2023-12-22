@@ -1,0 +1,35 @@
+{
+color = 8;
+glyphname = Ucircumflex;
+layers = (
+{
+components = (
+{
+name = U;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 162, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 664;
+},
+{
+components = (
+{
+name = U;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 231, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 719;
+}
+);
+leftKerningGroup = U;
+rightKerningGroup = U;
+unicode = 00DB;
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W_h.dlig" format="2">
+  <advance width="0"/>
+  <anchor x="-867" y="0" name="bottom_1"/>
+  <anchor x="-567" y="0" name="bottom_2"/>
+  <anchor x="-644" y="0" name="caret_1"/>
+  <anchor x="-653" y="700" name="top_1"/>
+  <anchor x="-353" y="700" name="top_2"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

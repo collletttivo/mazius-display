@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="532"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line" name="_corner02"/>
+      <point x="136" y="0" type="line" name="_corner00"/>
+      <point x="336" y="700" type="line"/>
+      <point x="238" y="700" type="line" name="_corner01"/>
+    </contour>
+    <contour>
+      <point x="386" y="191" type="line"/>
+      <point x="398" y="191" type="line"/>
+      <point x="467" y="455" type="line"/>
+      <point x="455" y="455" type="line"/>
+      <point x="374" y="345" type="line"/>
+      <point x="214" y="345" type="line"/>
+      <point x="210" y="327" type="line"/>
+      <point x="370" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="498" type="line"/>
+      <point x="600" y="498" type="line"/>
+      <point x="644" y="700" type="line"/>
+      <point x="316" y="700" type="line"/>
+      <point x="312" y="682" type="line"/>
+      <point x="550" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>scale</key>
+          <string>{1.2, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.leftSerif.cap</string>
+          <key>origin</key>
+          <string>_corner02</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

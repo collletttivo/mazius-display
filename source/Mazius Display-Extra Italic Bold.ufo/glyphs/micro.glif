@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="584"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="93" y="76" type="curve"/>
+      <point x="48" y="172" type="line"/>
+      <point x="-58" y="-227" type="line"/>
+      <point x="82" y="-149" type="line"/>
+      <point x="72" y="-127"/>
+      <point x="83" y="39"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>idotless</string>
+    </dict>
+  </lib>
+</glyph>

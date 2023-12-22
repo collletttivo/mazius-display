@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla" format="2">
+  <advance width="367"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="t"/>
+    <component base="cedillacomb" xOffset="-90" identifier="EDBA19F6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EDBA19F6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

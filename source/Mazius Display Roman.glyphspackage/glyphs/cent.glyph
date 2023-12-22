@@ -1,0 +1,54 @@
+{
+color = 3;
+glyphname = cent;
+layers = (
+{
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 0, 100}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"228 788 LINE",
+"228 -106 LINE",
+"251 -106 LINE",
+"251 788 LINE"
+);
+}
+);
+width = 467;
+},
+{
+components = (
+{
+alignment = -1;
+name = c;
+transform = "{1, 0, 0, 1, 0, 83}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"246 788 LINE",
+"246 -106 LINE",
+"281 -106 LINE",
+"281 788 LINE"
+);
+}
+);
+width = 487;
+}
+);
+leftKerningGroup = o;
+leftMetricsKey = c;
+rightKerningGroup = c;
+rightMetricsKey = c;
+unicode = 00A2;
+}

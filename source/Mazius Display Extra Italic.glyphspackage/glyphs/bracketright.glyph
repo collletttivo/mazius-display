@@ -1,0 +1,100 @@
+{
+color = 5;
+glyphname = bracketright;
+layers = (
+{
+hints = (
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.rightSerif.cap;
+options = 1;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.leftSerif.cap;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"66 -250 LINE",
+"353 750 LINE",
+"261 750 LINE",
+"-26 -250 LINE"
+);
+}
+);
+width = 244;
+},
+{
+hints = (
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.rightSerif.cap;
+options = 1;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.leftSerif.cap;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"133 -250 LINE",
+"419 750 LINE",
+"273 750 LINE",
+"-13 -250 LINE"
+);
+}
+);
+width = 312;
+},
+{
+associatedMasterId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+layerId = "1CBEE0BC-6B87-4947-890B-DB6853C87973";
+name = "11 apr 22, 19:45";
+paths = (
+{
+closed = 1;
+nodes = (
+"-4 -250 LINE",
+"88 -250 LINE",
+"394 750 LINE",
+"302 750 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"5 -221 LINE",
+"-120 -235 LINE",
+"-125 -250 LINE",
+"32 -250 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"147 750 LINE",
+"143 735 LINE",
+"303 718 LINE",
+"303 750 LINE"
+);
+}
+);
+width = 277;
+}
+);
+leftKerningGroup = bracketright;
+rightKerningGroup = bracketright;
+unicode = 005D;
+}

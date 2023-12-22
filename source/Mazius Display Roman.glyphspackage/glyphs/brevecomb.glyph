@@ -1,0 +1,75 @@
+{
+export = 0;
+glyphname = brevecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 497}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"261 568 OFFCURVE",
+"300 612 OFFCURVE",
+"300 698 CURVE",
+"287 698 LINE",
+"287 655 OFFCURVE",
+"257 631 OFFCURVE",
+"200 631 CURVE SMOOTH",
+"143 631 OFFCURVE",
+"113 655 OFFCURVE",
+"113 698 CURVE",
+"100 698 LINE",
+"100 612 OFFCURVE",
+"139 568 OFFCURVE",
+"200 568 CURVE SMOOTH"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{296, 517}";
+},
+{
+name = top;
+position = "{300, 729}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"397 576 OFFCURVE",
+"443 660 OFFCURVE",
+"425 737 CURVE",
+"412 737 LINE",
+"412 690 OFFCURVE",
+"352 661 OFFCURVE",
+"300 661 CURVE SMOOTH",
+"248 661 OFFCURVE",
+"187 690 OFFCURVE",
+"187 737 CURVE",
+"175 737 LINE",
+"157 660 OFFCURVE",
+"203 576 OFFCURVE",
+"300 576 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+leftKerningGroup = brevecomb;
+rightKerningGroup = brevecomb;
+unicode = 0306;
+}

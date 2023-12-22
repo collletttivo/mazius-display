@@ -1,0 +1,41 @@
+{
+color = 5;
+glyphname = endash;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"385 264 LINE",
+"391 296 LINE",
+"59 296 LINE",
+"53 264 LINE"
+);
+}
+);
+width = 412;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"415 246 LINE",
+"425 294 LINE",
+"47 294 LINE",
+"37 246 LINE"
+);
+}
+);
+width = 443;
+}
+);
+leftKerningGroup = hyphen;
+leftMetricsKey = hyphen;
+rightKerningGroup = hyphen;
+rightMetricsKey = hyphen;
+unicode = 2013;
+}

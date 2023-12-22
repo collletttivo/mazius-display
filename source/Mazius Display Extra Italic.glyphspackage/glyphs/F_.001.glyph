@@ -1,0 +1,157 @@
+{
+export = 0;
+glyphname = F.001;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"76 0 LINE",
+"176 0 LINE",
+"385 700 LINE",
+"285 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"198 700 LINE",
+"196 694 LINE",
+"279 681 LINE",
+"305 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"81 19 LINE",
+"0 6 LINE",
+"-1 0 LINE",
+"96 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 0 LINE",
+"294 6 LINE",
+"181 19 LINE",
+"156 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 681 LINE",
+"654 681 LINE",
+"660 700 LINE",
+"372 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"251 324 LINE",
+"497 324 LINE",
+"504 343 LINE",
+"266 343 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"533 440 LINE",
+"527 440 LINE",
+"455 343 LINE",
+"501 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"560 689 LINE",
+"590 690 OFFCURVE",
+"627 553 OFFCURVE",
+"633 516 CURVE",
+"639 516 LINE",
+"679 703 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 325 LINE",
+"463 228 LINE",
+"469 228 LINE",
+"501 334 LINE"
+);
+}
+);
+};
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"16 531 OFFCURVE",
+"96 498 OFFCURVE",
+"129 504 CURVE",
+"128 510 LINE",
+"97 506 OFFCURVE",
+"53 552 OFFCURVE",
+"53 588 CURVE SMOOTH",
+"53 664 OFFCURVE",
+"211 690 OFFCURVE",
+"282 689 CURVE",
+"44 -70 LINE",
+"70 -70 OFFCURVE",
+"163 -23 OFFCURVE",
+"171 0 CURVE",
+"270 324 LINE",
+"450 324 LINE",
+"464 228 LINE",
+"470 228 LINE",
+"499 324 LINE",
+"505 343 LINE",
+"535 440 LINE",
+"529 440 LINE",
+"456 343 LINE",
+"276 343 LINE",
+"379 681 LINE",
+"568 681 LINE",
+"593 651 OFFCURVE",
+"613 547 OFFCURVE",
+"619 516 CURVE",
+"625 516 LINE",
+"684 703 LINE",
+"656 700 LINE",
+"305 700 LINE",
+"248 702 OFFCURVE",
+"13 677 OFFCURVE",
+"15 582 CURVE SMOOTH"
+);
+}
+);
+width = 553;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{227, 0}";
+},
+{
+name = top;
+position = "{441, 700}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 733;
+}
+);
+leftKerningGroup = F.001;
+rightKerningGroup = F.001;
+rightMetricsKey = F;
+}

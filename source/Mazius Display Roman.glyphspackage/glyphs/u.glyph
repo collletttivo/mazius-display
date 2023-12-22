@@ -1,0 +1,153 @@
+{
+color = 4;
+glyphname = u;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{272, 0}";
+},
+{
+name = ogonek;
+position = "{486, 10}";
+},
+{
+name = top;
+position = "{272, 470}";
+},
+{
+name = topright;
+position = "{519, 470}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 11}";
+type = Corner;
+name = _corner.topSerif;
+},
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.topSerif;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"455 0 LINE",
+"455 470 LINE",
+"366 470 LINE",
+"366 106 LINE",
+"333 74 OFFCURVE",
+"285 55 OFFCURVE",
+"245 55 CURVE SMOOTH",
+"183 55 OFFCURVE",
+"152 91 OFFCURVE",
+"152 186 CURVE SMOOTH",
+"152 470 LINE",
+"63 470 LINE",
+"63 150 LINE SMOOTH",
+"63 45 OFFCURVE",
+"114 -14 OFFCURVE",
+"219 -14 CURVE",
+"265 7 OFFCURVE",
+"329 54 OFFCURVE",
+"369 99 CURVE",
+"370 99 LINE",
+"370 0 LINE"
+);
+}
+);
+width = 535;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{270, 0}";
+},
+{
+name = ogonek;
+position = "{508, 11}";
+},
+{
+name = top;
+position = "{281, 480}";
+},
+{
+name = topright;
+position = "{569, 480}";
+}
+);
+background = {
+components = (
+{
+name = n;
+transform = "{-1, 0, 0, -1, 618, 480}";
+}
+);
+};
+hints = (
+{
+origin = "{0, 11}";
+type = Corner;
+name = _corner.topSerif;
+},
+{
+origin = "{0, 0}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.lcSerif;
+},
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.topSerif;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"496 1 LINE",
+"496 480 LINE",
+"352 480 LINE",
+"352 88 LINE",
+"338 76 OFFCURVE",
+"311 67 OFFCURVE",
+"284 67 CURVE SMOOTH",
+"231 67 OFFCURVE",
+"199 102 OFFCURVE",
+"199 206 CURVE SMOOTH",
+"199 480 LINE",
+"55 480 LINE",
+"55 170 LINE SMOOTH",
+"55 56 OFFCURVE",
+"97 -14 OFFCURVE",
+"236 -14 CURVE",
+"274 6 OFFCURVE",
+"323 40 OFFCURVE",
+"358 73 CURVE",
+"360 73 LINE",
+"362 -1 LINE"
+);
+}
+);
+width = 566;
+}
+);
+leftKerningGroup = u;
+rightKerningGroup = u;
+unicode = 0075;
+}

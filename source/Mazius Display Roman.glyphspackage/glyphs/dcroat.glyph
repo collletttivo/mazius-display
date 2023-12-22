@@ -1,0 +1,27 @@
+{
+color = 8;
+glyphname = dcroat;
+layers = (
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 525;
+},
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 575;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = l;
+unicode = 0111;
+}

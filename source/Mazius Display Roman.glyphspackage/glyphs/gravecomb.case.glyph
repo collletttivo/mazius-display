@@ -1,0 +1,73 @@
+{
+export = 0;
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{196, 700}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acutecomb.case;
+transform = "{-1, 0, 0, 1, 337, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{175, 700}";
+},
+{
+name = top;
+position = "{0, 0}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acutecomb.case;
+transform = "{-1, 0, 0, 1, 530, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 536}";
+}
+);
+associatedMasterId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+layerId = "4EE3EBC1-8148-47D8-8087-B75D1881775B";
+name = "1 feb 22, 12:27";
+paths = (
+{
+closed = 1;
+nodes = (
+"283 751 LINE",
+"208 860 LINE",
+"119 860 LINE",
+"120 860 OFFCURVE",
+"109 857 OFFCURVE",
+"108 857 CURVE",
+"108 856 LINE",
+"275 751 LINE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = gravecomb.case;
+rightKerningGroup = gravecomb.case;
+}

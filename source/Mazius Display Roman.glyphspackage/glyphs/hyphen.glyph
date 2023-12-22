@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = hyphen;
+layers = (
+{
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"297 261 LINE",
+"297 301 LINE",
+"55 302 LINE",
+"55 261 LINE"
+);
+}
+);
+width = 352;
+},
+{
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 240 LINE",
+"322 240 LINE",
+"322 300 LINE",
+"40 301 LINE"
+);
+}
+);
+width = 362;
+}
+);
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
+unicode = 002D;
+}

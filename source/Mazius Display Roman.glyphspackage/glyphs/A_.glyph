@@ -1,0 +1,164 @@
+{
+color = 3;
+glyphname = A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{320, 0}";
+},
+{
+name = ogonek;
+position = "{611, 10}";
+},
+{
+name = top;
+position = "{340, 700}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+scale = "{0.8, 1}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+},
+{
+origin = "{0, 6}";
+scale = "{-1.2, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 4}";
+scale = "{1.1, 1}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+},
+{
+origin = "{0, 3}";
+scale = "{-0.8, 1}";
+type = Corner;
+name = _corner.capSerif;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"631 0 LINE",
+"407 705 LINE",
+"311 700 LINE",
+"61 0 LINE",
+"87 0 LINE",
+"320 660 LINE",
+"522 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"466 248 LINE",
+"466 265 LINE",
+"172 265 LINE",
+"164 248 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"320 700 LINE",
+"230 700 LINE",
+"230 694 LINE",
+"307 680 LINE"
+);
+}
+);
+width = 702;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{382, 0}";
+},
+{
+name = ogonek;
+position = "{624, 10}";
+},
+{
+name = top;
+position = "{354, 700}";
+}
+);
+hints = (
+{
+origin = "{0, 3}";
+scale = "{-0.6, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 4}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+},
+{
+origin = "{0, 6}";
+scale = "{-1, 1}";
+type = Corner;
+name = _corner.capSerif;
+},
+{
+origin = "{0, 0}";
+scale = "{0.59, 1}";
+type = Corner;
+name = _corner.capSerif;
+options = 1;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"691 0 LINE",
+"456 710 LINE",
+"326 705 LINE",
+"70 0 LINE",
+"105 0 LINE",
+"327 619 LINE",
+"515 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"510 240 LINE",
+"505 266 LINE",
+"191 266 LINE",
+"178 240 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 705 LINE",
+"222 705 LINE",
+"222 689 LINE",
+"323 661 LINE"
+);
+}
+);
+width = 755;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 0041;
+}

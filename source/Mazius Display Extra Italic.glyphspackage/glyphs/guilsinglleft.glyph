@@ -1,0 +1,43 @@
+{
+color = 3;
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"186 20 LINE",
+"108 238 LINE",
+"262 449 LINE",
+"254 456 LINE",
+"34 240 LINE",
+"176 16 LINE"
+);
+}
+);
+width = 288;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"192 22 LINE",
+"146 238 LINE",
+"268 448 LINE",
+"258 456 LINE",
+"26 240 LINE",
+"179 16 LINE"
+);
+}
+);
+width = 296;
+}
+);
+leftKerningGroup = guilsinglleft;
+rightKerningGroup = guilsinglleft;
+unicode = 2039;
+}

@@ -1,0 +1,68 @@
+{
+export = 0;
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 700}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"233 750 OFFCURVE",
+"258 775 OFFCURVE",
+"258 808 CURVE",
+"258 841 OFFCURVE",
+"233 866 OFFCURVE",
+"200 866 CURVE SMOOTH",
+"167 866 OFFCURVE",
+"142 841 OFFCURVE",
+"142 808 CURVE SMOOTH",
+"142 775 OFFCURVE",
+"167 750 OFFCURVE",
+"200 750 CURVE SMOOTH"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{201, 700}";
+},
+{
+name = top;
+position = "{201, 921}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"246 741 OFFCURVE",
+"276 774 OFFCURVE",
+"276 815 CURVE SMOOTH",
+"276 854 OFFCURVE",
+"246 887 OFFCURVE",
+"204 887 CURVE SMOOTH",
+"165 887 OFFCURVE",
+"132 854 OFFCURVE",
+"132 815 CURVE SMOOTH",
+"132 774 OFFCURVE",
+"165 741 OFFCURVE",
+"204 741 CURVE SMOOTH"
+);
+}
+);
+width = 400;
+}
+);
+}

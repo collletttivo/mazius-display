@@ -1,0 +1,90 @@
+{
+color = 3;
+export = 0;
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 470}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"234 648 LINE",
+"238 648 LINE",
+"330 548 LINE",
+"338 552 LINE",
+"258 742 LINE",
+"246 742 LINE",
+"96 555 LINE",
+"102 548 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 490}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"230 632 LINE",
+"238 632 LINE",
+"340 548 LINE",
+"348 552 LINE",
+"260 742 LINE",
+"240 742 LINE",
+"78 555 LINE",
+"84 548 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{360, 470}";
+},
+{
+name = top;
+position = "{439, 726}";
+}
+);
+associatedMasterId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+layerId = "888E4B33-9A1E-48B8-88A2-4A0A0EC9CF85";
+name = "8 apr 22, 23:10";
+paths = (
+{
+closed = 1;
+nodes = (
+"420 668 LINE",
+"496 543 LINE",
+"505 543 LINE",
+"454 732 LINE",
+"424 732 LINE",
+"261 543 LINE",
+"269 543 LINE"
+);
+}
+);
+width = 600;
+}
+);
+leftKerningGroup = circumflexcomb;
+rightKerningGroup = circumflexcomb;
+unicode = 0302;
+}

@@ -1,0 +1,67 @@
+{
+color = 3;
+glyphname = yen;
+layers = (
+{
+components = (
+{
+name = Y;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"132 267 LINE",
+"506 267 LINE",
+"506 290 LINE",
+"132 290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 197 LINE",
+"506 197 LINE",
+"506 220 LINE",
+"132 220 LINE"
+);
+}
+);
+width = 630;
+},
+{
+components = (
+{
+name = Y;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 260 LINE",
+"576 260 LINE",
+"576 290 LINE",
+"152 290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"152 190 LINE",
+"576 190 LINE",
+"576 220 LINE",
+"152 220 LINE"
+);
+}
+);
+width = 676;
+}
+);
+leftKerningGroup = yen;
+rightKerningGroup = yen;
+unicode = 00A5;
+}

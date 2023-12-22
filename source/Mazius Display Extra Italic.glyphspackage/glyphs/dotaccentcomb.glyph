@@ -1,0 +1,95 @@
+{
+export = 0;
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{200, 470}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 635 OFFCURVE",
+"278 681 OFFCURVE",
+"292 706 CURVE",
+"284 712 LINE",
+"200 692 LINE",
+"188 670 OFFCURVE",
+"183 633 OFFCURVE",
+"188 608 CURVE",
+"256 600 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 490}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"269 630 OFFCURVE",
+"283 670 OFFCURVE",
+"303 710 CURVE",
+"287 724 LINE",
+"175 708 LINE",
+"163 676 OFFCURVE",
+"157 632 OFFCURVE",
+"159 596 CURVE",
+"261 590 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{200, 490}";
+},
+{
+name = top;
+position = "{231, 752}";
+}
+);
+associatedMasterId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+layerId = "DC031C81-880E-4E73-BDB3-868E490DC0A7";
+name = "9 apr 22, 11:52";
+paths = (
+{
+closed = 1;
+nodes = (
+"138 609 OFFCURVE",
+"144 670 OFFCURVE",
+"166 689 CURVE",
+"287 729 LINE",
+"292 726 LINE",
+"268 688 OFFCURVE",
+"241 631 OFFCURVE",
+"237 570 CURVE",
+"213 576 OFFCURVE",
+"176 582 OFFCURVE",
+"147 590 CURVE"
+);
+}
+);
+width = 400;
+}
+);
+leftKerningGroup = dotaccentcomb;
+rightKerningGroup = dotaccentcomb;
+unicode = 0307;
+}

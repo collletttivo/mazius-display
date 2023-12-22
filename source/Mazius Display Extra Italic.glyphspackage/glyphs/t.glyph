@@ -1,0 +1,294 @@
+{
+color = 3;
+glyphname = t;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{80, 0}";
+},
+{
+name = topright;
+position = "{238, 410}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+scale = "{1.6, 1}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"102 -2 LINE",
+"278 622 LINE",
+"262 628 LINE",
+"176 564 LINE",
+"18 12 LINE",
+"80 -16 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 456 LINE",
+"336 470 LINE",
+"80 470 LINE",
+"76 456 LINE"
+);
+}
+);
+width = 284;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{108, 0}";
+},
+{
+name = topright;
+position = "{280, 468}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+scale = "{1.6, 1}";
+type = Corner;
+name = _corner.rightSerif;
+options = 1;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"144 4 LINE",
+"320 644 LINE",
+"284 660 LINE",
+"160 572 LINE",
+"8 24 LINE",
+"112 -18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"376 468 LINE",
+"381 490 LINE",
+"77 490 LINE",
+"72 468 LINE"
+);
+}
+);
+width = 324;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{117, 0}";
+},
+{
+name = center;
+position = "{155, 235}";
+},
+{
+name = top;
+position = "{227, 470}";
+},
+{
+name = topright;
+position = "{436, 700}";
+}
+);
+associatedMasterId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"141 106 LINE",
+"249 469 LINE",
+"278 569 LINE",
+"267 570 LINE",
+"182 509 LINE",
+"154 463 LINE",
+"52 106 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"73 445 LINE",
+"92 447 LINE",
+"235 455 LINE",
+"329 471 LINE",
+"368 474 LINE",
+"372 485 LINE",
+"77 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"37 33 OFFCURVE",
+"62 -7 OFFCURVE",
+"137 -13 CURVE",
+"196 18 OFFCURVE",
+"218 38 OFFCURVE",
+"282 80 CURVE",
+"278 86 LINE",
+"221 53 OFFCURVE",
+"201 38 OFFCURVE",
+"179 30 CURVE",
+"150 27 OFFCURVE",
+"131 62 OFFCURVE",
+"149 136 CURVE",
+"52 107 LINE"
+);
+}
+);
+};
+layerId = "D66B7EB3-2079-410B-9F16-BE2B3A37D5D3";
+name = "29 mar 22, 22:04";
+paths = (
+{
+closed = 1;
+nodes = (
+"27 34 OFFCURVE",
+"52 -6 OFFCURVE",
+"127 -12 CURVE",
+"186 19 OFFCURVE",
+"208 39 OFFCURVE",
+"272 81 CURVE",
+"268 87 LINE",
+"211 54 OFFCURVE",
+"191 39 OFFCURVE",
+"169 31 CURVE",
+"142 28 OFFCURVE",
+"118 52 OFFCURVE",
+"135 118 CURVE",
+"242 444 LINE",
+"329 445 LINE",
+"368 448 LINE",
+"372 468 LINE",
+"250 467 LINE",
+"295 627 LINE",
+"284 628 LINE",
+"199 567 LINE",
+"158 469 LINE",
+"77 468 LINE",
+"73 448 LINE",
+"150 448 LINE",
+"42 108 LINE"
+);
+}
+);
+width = 309;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{132, 0}";
+},
+{
+name = center;
+position = "{185, 240}";
+},
+{
+name = top;
+position = "{258, 480}";
+},
+{
+name = topright;
+position = "{554, 700}";
+}
+);
+associatedMasterId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"128 440 LINE",
+"24 86 LINE",
+"-2 3 OFFCURVE",
+"94 -13 OFFCURVE",
+"167 -13 CURVE",
+"227 18 OFFCURVE",
+"259 38 OFFCURVE",
+"324 80 CURVE",
+"320 86 LINE",
+"262 53 OFFCURVE",
+"239 45 OFFCURVE",
+"207 45 CURVE SMOOTH",
+"178 46 OFFCURVE",
+"161 74 OFFCURVE",
+"178 126 CURVE",
+"271 438 LINE",
+"388 435 LINE",
+"428 440 LINE",
+"440 479 LINE",
+"279 479 LINE",
+"321 605 LINE",
+"310 606 LINE",
+"158 503 LINE",
+"65 462 LINE",
+"58 442 LINE"
+);
+}
+);
+};
+layerId = "E59C1649-C68F-4A48-9F50-7490369E12EF";
+name = "9 apr 22, 18:08";
+paths = (
+{
+closed = 1;
+nodes = (
+"12 33 OFFCURVE",
+"83 -7 OFFCURVE",
+"161 -13 CURVE",
+"220 18 OFFCURVE",
+"242 31 OFFCURVE",
+"306 73 CURVE",
+"301 99 LINE",
+"279 83 OFFCURVE",
+"232 58 OFFCURVE",
+"210 50 CURVE",
+"183 47 OFFCURVE",
+"159 71 OFFCURVE",
+"176 127 CURVE",
+"285 451 LINE",
+"372 454 LINE",
+"411 457 LINE",
+"420 495 LINE",
+"293 496 LINE",
+"329 627 LINE",
+"318 628 LINE",
+"184 578 LINE",
+"156 496 LINE",
+"71 495 LINE",
+"67 457 LINE",
+"144 455 LINE",
+"27 107 LINE"
+);
+}
+);
+width = 352;
+}
+);
+leftKerningGroup = idotless;
+rightKerningGroup = t;
+unicode = 0074;
+}

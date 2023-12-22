@@ -1,0 +1,35 @@
+{
+color = 4;
+glyphname = j;
+layers = (
+{
+components = (
+{
+name = jdotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 40, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 278;
+},
+{
+components = (
+{
+name = jdotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 106, 10}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 361;
+}
+);
+leftKerningGroup = jdotless;
+rightKerningGroup = jdotless;
+unicode = 006A;
+}

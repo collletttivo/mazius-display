@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="510"/>
+  <unicode hex="2264"/>
+  <outline>
+    <component base="greater" xScale="-1" xOffset="510" yOffset="60"/>
+    <component base="minus" xScale="-0.9516" yScale="0.9" xOffset="510" yOffset="-165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

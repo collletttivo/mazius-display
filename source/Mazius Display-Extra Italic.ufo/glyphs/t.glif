@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="284"/>
+  <unicode hex="0074"/>
+  <anchor x="80" y="0" name="bottom"/>
+  <anchor x="238" y="410" name="topright"/>
+  <outline>
+    <contour>
+      <point x="80" y="-16" type="line"/>
+      <point x="102" y="-2" type="line" name="_corner00"/>
+      <point x="278" y="622" type="line"/>
+      <point x="262" y="628" type="line"/>
+      <point x="176" y="564" type="line"/>
+      <point x="18" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="456" type="line"/>
+      <point x="332" y="456" type="line"/>
+      <point x="336" y="470" type="line"/>
+      <point x="80" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>scale</key>
+          <string>{1.6, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

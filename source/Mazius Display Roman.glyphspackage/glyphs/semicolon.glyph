@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = semicolon;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 376}";
+},
+{
+alignment = 1;
+name = comma;
+transform = "{1, 0, 0, 1, 0, 13}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 206;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 376}";
+},
+{
+name = comma;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 236;
+}
+);
+leftKerningGroup = period;
+leftMetricsKey = comma;
+rightKerningGroup = period;
+unicode = 003B;
+}

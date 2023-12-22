@@ -1,0 +1,50 @@
+{
+glyphname = Hbar;
+layers = (
+{
+components = (
+{
+name = H;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"750 580 LINE",
+"752 596 LINE",
+"132 596 LINE",
+"130 580 LINE"
+);
+}
+);
+width = 684;
+},
+{
+components = (
+{
+name = H;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"836 579 LINE",
+"838 597 LINE",
+"128 597 LINE",
+"126 579 LINE"
+);
+}
+);
+width = 772;
+}
+);
+leftKerningGroup = H;
+leftMetricsKey = H;
+rightKerningGroup = H;
+rightMetricsKey = H;
+unicode = 0126;
+}

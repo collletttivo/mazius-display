@@ -1,0 +1,30 @@
+{
+glyphname = twosuperior;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = two;
+transform = "{0.74846, 0, 0, 0.74846, 108, 354}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 355;
+},
+{
+components = (
+{
+alignment = -1;
+name = two;
+transform = "{0.71945, 0, 0, 0.71945, 91, 355}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 362;
+}
+);
+leftKerningGroup = two;
+rightKerningGroup = two;
+unicode = 00B2;
+}

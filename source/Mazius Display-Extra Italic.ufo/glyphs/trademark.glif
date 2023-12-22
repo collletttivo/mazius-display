@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="621"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="153" y="407" type="line" name="_corner01"/>
+      <point x="211" y="407" type="line" name="_corner00"/>
+      <point x="295" y="701" type="line"/>
+      <point x="237" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="606" type="line"/>
+      <point x="133" y="605" type="line"/>
+      <point x="185" y="690" type="line"/>
+      <point x="335" y="690" type="line"/>
+      <point x="351" y="606" type="line"/>
+      <point x="357" y="606" type="line"/>
+      <point x="382" y="701" type="line"/>
+      <point x="142" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="407" type="line" name="_corner07"/>
+      <point x="347" y="407" type="line" name="_corner02"/>
+      <point x="425" y="686" type="line"/>
+      <point x="429" y="686" type="line"/>
+      <point x="450" y="407" type="line"/>
+      <point x="485" y="407" type="line"/>
+      <point x="650" y="685" type="line"/>
+      <point x="653" y="685" type="line"/>
+      <point x="574" y="407" type="line" name="_corner03"/>
+      <point x="631" y="407" type="line" name="_corner04"/>
+      <point x="715" y="701" type="line" name="_corner05"/>
+      <point x="648" y="701" type="line"/>
+      <point x="507" y="463" type="line"/>
+      <point x="503" y="463" type="line"/>
+      <point x="485" y="701" type="line"/>
+      <point x="420" y="701" type="line" name="_corner06"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>scale</key>
+          <string>{0.504, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.leftSerif.cap</string>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>scale</key>
+          <string>{0.4368, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner02</string>
+          <key>scale</key>
+          <string>{0.42, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.leftSerif.cap</string>
+          <key>origin</key>
+          <string>_corner03</string>
+          <key>scale</key>
+          <string>{0.42, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner04</string>
+          <key>scale</key>
+          <string>{0.42, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.leftSerif.cap</string>
+          <key>origin</key>
+          <string>_corner05</string>
+          <key>scale</key>
+          <string>{0.42, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif.cap</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner06</string>
+          <key>scale</key>
+          <string>{0.42, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.leftSerif.cap</string>
+          <key>origin</key>
+          <string>_corner07</string>
+          <key>scale</key>
+          <string>{0.42, 0.42}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

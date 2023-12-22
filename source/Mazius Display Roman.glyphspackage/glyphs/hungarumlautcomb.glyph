@@ -1,0 +1,85 @@
+{
+export = 0;
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{251, 535}";
+},
+{
+name = top;
+position = "{251, 744}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"292 736 LINE",
+"292 737 LINE",
+"285 743 LINE",
+"208 740 LINE",
+"151 593 LINE",
+"157 589 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 726 LINE",
+"413 727 LINE",
+"406 736 LINE",
+"330 744 LINE",
+"247 598 LINE",
+"252 593 LINE"
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{229, 504}";
+},
+{
+name = top;
+position = "{229, 752}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"257 719 LINE",
+"257 720 LINE",
+"249 727 LINE",
+"125 724 LINE",
+"123 579 LINE",
+"140 572 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 708 LINE",
+"420 709 LINE",
+"412 717 LINE",
+"286 726 LINE",
+"232 578 LINE",
+"249 569 LINE"
+);
+}
+);
+width = 600;
+}
+);
+leftKerningGroup = hungarumlautcomb;
+rightKerningGroup = hungarumlautcomb;
+unicode = 030B;
+}

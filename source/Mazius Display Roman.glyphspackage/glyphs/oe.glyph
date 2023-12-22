@@ -1,0 +1,61 @@
+{
+color = 3;
+glyphname = oe;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{420, 0}";
+},
+{
+name = top;
+position = "{420, 470}";
+}
+);
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = e;
+transform = "{1, 0, 0, 1, 372, 0}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 850;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{471, 0}";
+},
+{
+name = top;
+position = "{471, 480}";
+}
+);
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = e;
+transform = "{1, 0, 0, 1, 364, 0}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 868;
+}
+);
+leftKerningGroup = o;
+leftMetricsKey = o;
+rightKerningGroup = e;
+rightMetricsKey = e;
+unicode = 0153;
+}

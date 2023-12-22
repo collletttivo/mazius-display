@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = dieresis;
+layers = (
+{
+components = (
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 27, 21}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 391;
+},
+{
+components = (
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 35, 39}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 407;
+}
+);
+leftKerningGroup = period;
+rightKerningGroup = period;
+unicode = 00A8;
+}

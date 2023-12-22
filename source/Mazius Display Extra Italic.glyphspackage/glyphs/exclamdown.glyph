@@ -1,0 +1,59 @@
+{
+color = 3;
+glyphname = exclamdown;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 102, 374}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"36 -250 LINE",
+"94 -51 OFFCURVE",
+"95 110 OFFCURVE",
+"147 288 CURVE",
+"127 288 LINE",
+"76 112 OFFCURVE",
+"-10 -47 OFFCURVE",
+"-68 -250 CURVE"
+);
+}
+);
+width = 244;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 114, 374}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"77 -250 LINE",
+"135 -51 OFFCURVE",
+"110 110 OFFCURVE",
+"161 288 CURVE",
+"135 288 LINE",
+"85 112 OFFCURVE",
+"-22 -47 OFFCURVE",
+"-80 -250 CURVE"
+);
+}
+);
+width = 280;
+}
+);
+leftKerningGroup = exclamdown;
+rightKerningGroup = exclamdown;
+unicode = 00A1;
+}

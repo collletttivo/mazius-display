@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = quotesinglbase;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"63 -60 OFFCURVE",
+"99 -8 OFFCURVE",
+"123 84 CURVE",
+"113 96 LINE",
+"23 86 LINE",
+"13 58 OFFCURVE",
+"11 24 OFFCURVE",
+"11 0 CURVE",
+"71 -6 LINE",
+"59 4 LINE",
+"53 -32 OFFCURVE",
+"27 -68 OFFCURVE",
+"-13 -96 CURVE",
+"-5 -108 LINE"
+);
+}
+);
+width = 218;
+},
+{
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"70 -52 OFFCURVE",
+"110 0 OFFCURVE",
+"134 96 CURVE",
+"118 114 LINE",
+"8 100 LINE",
+"0 72 OFFCURVE",
+"-6 32 OFFCURVE",
+"-4 -4 CURVE",
+"70 -8 LINE",
+"58 8 LINE",
+"50 -28 OFFCURVE",
+"26 -62 OFFCURVE",
+"-14 -90 CURVE",
+"-2 -108 LINE"
+);
+}
+);
+width = 228;
+}
+);
+leftKerningGroup = period;
+rightKerningGroup = period;
+unicode = 201A;
+}

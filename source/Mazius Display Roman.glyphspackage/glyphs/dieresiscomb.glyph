@@ -1,0 +1,57 @@
+{
+export = 0;
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{168, 450}";
+},
+{
+name = top;
+position = "{168, 667}";
+}
+);
+components = (
+{
+name = period;
+transform = "{0.8, 0, 0, 0.8, 7, 563}";
+},
+{
+name = period;
+transform = "{0.8, 0, 0, 0.8, 152, 563}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{168, 480}";
+},
+{
+name = top;
+position = "{168, 667}";
+}
+);
+components = (
+{
+name = period;
+transform = "{0.8, 0, 0, 0.8, 7, 563}";
+},
+{
+name = period;
+transform = "{0.8, 0, 0, 0.8, 152, 563}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 350;
+}
+);
+leftKerningGroup = dieresiscomb;
+rightKerningGroup = dieresiscomb;
+unicode = 0308;
+}

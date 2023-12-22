@@ -1,0 +1,147 @@
+{
+color = 3;
+glyphname = e;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{326, 0}";
+},
+{
+name = top;
+position = "{261, 470}";
+}
+);
+background = {
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 6, 0}";
+}
+);
+};
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"440 281 LINE",
+"442 391 OFFCURVE",
+"393 482 OFFCURVE",
+"262 482 CURVE",
+"132 462 OFFCURVE",
+"36 352 OFFCURVE",
+"36 222 CURVE SMOOTH",
+"36 77 OFFCURVE",
+"130 -12 OFFCURVE",
+"284 -13 CURVE",
+"351 30 OFFCURVE",
+"402 72 OFFCURVE",
+"458 121 CURVE",
+"451 127 LINE",
+"425 104 OFFCURVE",
+"362 64 OFFCURVE",
+"334 49 CURVE",
+"196 53 OFFCURVE",
+"130 136 OFFCURVE",
+"130 258 CURVE SMOOTH",
+"130 354 OFFCURVE",
+"161 454 OFFCURVE",
+"235 454 CURVE SMOOTH",
+"309 454 OFFCURVE",
+"342 336 OFFCURVE",
+"342 263 CURVE",
+"409 263 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"107 261 LINE",
+"395 264 LINE",
+"413 286 LINE",
+"107 273 LINE"
+);
+}
+);
+width = 478;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{254, 0}";
+},
+{
+name = ogonek;
+position = "{339, 10}";
+},
+{
+name = top;
+position = "{254, 480}";
+}
+);
+background = {
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 2, 0}";
+}
+);
+};
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"145 261 LINE",
+"417 263 LINE",
+"417 298 LINE",
+"145 274 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 281 LINE",
+"481 430 OFFCURVE",
+"399 494 OFFCURVE",
+"284 494 CURVE",
+"174 467 OFFCURVE",
+"33 384 OFFCURVE",
+"33 226 CURVE SMOOTH",
+"33 93 OFFCURVE",
+"127 -14 OFFCURVE",
+"291 -14 CURVE",
+"356 25 OFFCURVE",
+"419 74 OFFCURVE",
+"484 129 CURVE",
+"477 139 LINE",
+"436 113 OFFCURVE",
+"394 86 OFFCURVE",
+"350 63 CURVE",
+"239 81 OFFCURVE",
+"174 161 OFFCURVE",
+"174 267 CURVE SMOOTH",
+"174 389 OFFCURVE",
+"208 459 OFFCURVE",
+"250 459 CURVE SMOOTH",
+"289 459 OFFCURVE",
+"338 408 OFFCURVE",
+"338 295 CURVE SMOOTH",
+"338 286 OFFCURVE",
+"338 270 OFFCURVE",
+"338 263 CURVE",
+"454 263 LINE"
+);
+}
+);
+width = 504;
+}
+);
+leftKerningGroup = o;
+leftMetricsKey = o;
+rightKerningGroup = e;
+unicode = 0065;
+}

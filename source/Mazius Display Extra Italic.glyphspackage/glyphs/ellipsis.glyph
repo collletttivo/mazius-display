@@ -1,0 +1,45 @@
+{
+color = 5;
+glyphname = ellipsis;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 240, 0}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 480, 0}";
+},
+{
+name = period;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+width = 706;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 248, 0}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 496, 0}";
+},
+{
+name = period;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 732;
+}
+);
+leftKerningGroup = period;
+leftMetricsKey = period;
+rightKerningGroup = period;
+rightMetricsKey = period;
+unicode = 2026;
+}

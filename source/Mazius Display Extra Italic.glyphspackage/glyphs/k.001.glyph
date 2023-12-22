@@ -1,0 +1,74 @@
+{
+export = 0;
+glyphname = k.001;
+layers = (
+{
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"91 0 LINE",
+"98 16 LINE",
+"101 23 LINE",
+"151 158 OFFCURVE",
+"282 422 OFFCURVE",
+"330 446 CURVE",
+"345 446 OFFCURVE",
+"356 437 OFFCURVE",
+"356 394 CURVE SMOOTH",
+"356 360 OFFCURVE",
+"357 276 OFFCURVE",
+"214 181 CURVE",
+"216 177 LINE",
+"217 128 OFFCURVE",
+"371 -131 OFFCURVE",
+"501 -131 CURVE",
+"603 -49 LINE",
+"604 -47 LINE",
+"396 -45 OFFCURVE",
+"292 138 OFFCURVE",
+"288 176 CURVE",
+"247 177 LINE",
+"358 218 OFFCURVE",
+"450 314 OFFCURVE",
+"450 400 CURVE SMOOTH",
+"450 446 OFFCURVE",
+"409 475 OFFCURVE",
+"368 475 CURVE",
+"343 464 OFFCURVE",
+"258 459 OFFCURVE",
+"91 23 CURVE",
+"85 23 LINE",
+"340 742 LINE",
+"337 747 OFFCURVE",
+"333 754 OFFCURVE",
+"327 758 CURVE",
+"124 680 LINE",
+"127 672 LINE",
+"244 713 LINE",
+"-10 -3 LINE"
+);
+}
+);
+width = 474;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{-44, 0}";
+},
+{
+name = top;
+position = "{185, 750}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+width = 329;
+}
+);
+leftKerningGroup = k.002;
+leftMetricsKey = l;
+rightKerningGroup = k.002;
+}

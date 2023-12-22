@@ -1,0 +1,149 @@
+{
+color = 3;
+glyphname = question;
+layers = (
+{
+background = {
+components = (
+{
+name = two;
+transform = "{1, 0, 0, 1, -12, 226}";
+}
+);
+paths = (
+{
+closed = 0;
+nodes = (
+"263 246 LINE"
+);
+}
+);
+};
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 94, -5}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"98 660 OFFCURVE",
+"163 688 OFFCURVE",
+"220 710 CURVE",
+"303 710 OFFCURVE",
+"394 665 OFFCURVE",
+"394 574 CURVE SMOOTH",
+"394 477 OFFCURVE",
+"285 372 OFFCURVE",
+"216 337 CURVE",
+"222 297 OFFCURVE",
+"237 272 OFFCURVE",
+"263 254 CURVE",
+"263 246 LINE",
+"194 195 LINE",
+"161 215 OFFCURVE",
+"146 248 OFFCURVE",
+"150 298 CURVE",
+"217 356 OFFCURVE",
+"285 428 OFFCURVE",
+"285 534 CURVE SMOOTH",
+"285 616 OFFCURVE",
+"239 647 OFFCURVE",
+"180 647 CURVE SMOOTH",
+"139 647 OFFCURVE",
+"88 633 OFFCURVE",
+"49 602 CURVE",
+"43 611 LINE"
+);
+}
+);
+width = 414;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"108 665 OFFCURVE",
+"204 713 OFFCURVE",
+"251 713 CURVE SMOOTH",
+"346 713 OFFCURVE",
+"448 656 OFFCURVE",
+"448 577 CURVE SMOOTH",
+"448 442 OFFCURVE",
+"249 398 OFFCURVE",
+"249 340 CURVE SMOOTH",
+"249 302 OFFCURVE",
+"284 244 OFFCURVE",
+"303 244 CURVE",
+"305 242 LINE",
+"204 174 LINE",
+"198 174 OFFCURVE",
+"143 234 OFFCURVE",
+"143 336 CURVE",
+"159 336 OFFCURVE",
+"299 429 OFFCURVE",
+"299 555 CURVE SMOOTH",
+"299 625 OFFCURVE",
+"256 661 OFFCURVE",
+"223 661 CURVE SMOOTH",
+"171 661 OFFCURVE",
+"111 623 OFFCURVE",
+"84 589 CURVE",
+"50 594 LINE"
+);
+}
+);
+};
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 132, -3}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"108 652 OFFCURVE",
+"173 690 OFFCURVE",
+"230 712 CURVE",
+"358 710 OFFCURVE",
+"449 655 OFFCURVE",
+"449 550 CURVE SMOOTH",
+"449 457 OFFCURVE",
+"380 372 OFFCURVE",
+"271 337 CURVE",
+"277 297 OFFCURVE",
+"292 272 OFFCURVE",
+"318 254 CURVE",
+"318 246 LINE",
+"229 195 LINE",
+"196 215 OFFCURVE",
+"181 248 OFFCURVE",
+"175 296 CURVE",
+"272 356 OFFCURVE",
+"319 408 OFFCURVE",
+"319 495 CURVE SMOOTH",
+"319 576 OFFCURVE",
+"269 622 OFFCURVE",
+"190 623 CURVE SMOOTH",
+"149 623 OFFCURVE",
+"101 611 OFFCURVE",
+"62 581 CURVE",
+"53 593 LINE"
+);
+}
+);
+width = 468;
+}
+);
+leftKerningGroup = question;
+rightKerningGroup = question;
+unicode = 003F;
+}

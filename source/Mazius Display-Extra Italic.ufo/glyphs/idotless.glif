@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="255"/>
+  <unicode hex="0131"/>
+  <anchor x="98" y="0" name="ogonek"/>
+  <anchor x="189" y="470" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="-16" type="line"/>
+      <point x="98" y="0" type="line" name="_corner01"/>
+      <point x="234" y="480" type="line"/>
+      <point x="218" y="486" type="line"/>
+      <point x="142" y="456" type="line" name="_corner00"/>
+      <point x="14" y="12" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>scale</key>
+          <string>{1.48, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

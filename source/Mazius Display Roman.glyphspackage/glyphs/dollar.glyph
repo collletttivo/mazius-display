@@ -1,0 +1,51 @@
+{
+color = 3;
+glyphname = dollar;
+layers = (
+{
+components = (
+{
+name = S;
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 788 LINE",
+"268 -106 LINE",
+"291 -106 LINE",
+"291 788 LINE"
+);
+}
+);
+width = 560;
+},
+{
+components = (
+{
+name = S;
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+paths = (
+{
+closed = 1;
+nodes = (
+"285 788 LINE",
+"285 -106 LINE",
+"320 -106 LINE",
+"320 788 LINE"
+);
+}
+);
+width = 582;
+}
+);
+leftKerningGroup = dollar;
+leftMetricsKey = S;
+rightKerningGroup = dollar;
+rightMetricsKey = S;
+unicode = 0024;
+}

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="589"/>
+  <unicode hex="004C"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="177" y="700" name="top"/>
+  <anchor x="390" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="112" y="0" type="line" name="_corner00"/>
+      <point x="219" y="0" type="line"/>
+      <point x="219" y="699" type="line" name="_corner02"/>
+      <point x="118" y="700" type="line" name="_corner01"/>
+    </contour>
+    <contour>
+      <point x="146" y="20" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="13" type="line"/>
+      <point x="213" y="15" type="line"/>
+    </contour>
+    <contour>
+      <point x="544" y="0" type="line"/>
+      <point x="559" y="185" type="line"/>
+      <point x="551" y="187" type="line"/>
+      <point x="533" y="150"/>
+      <point x="459" y="13"/>
+      <point x="429" y="14" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.capSerif</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>scale</key>
+          <string>{-1, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.capSerif</string>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.capSerif</string>
+          <key>origin</key>
+          <string>_corner02</string>
+          <key>scale</key>
+          <string>{-1, 1}</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+{
+export = 0;
+glyphname = tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{189, 700}";
+},
+{
+name = top;
+position = "{189, 865}";
+}
+);
+components = (
+{
+alignment = -1;
+name = tildecomb;
+transform = "{0.99806, -0.06221, 0.06221, 0.99806, -51, 171}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{280, 700}";
+},
+{
+name = top;
+position = "{280, 893}";
+}
+);
+components = (
+{
+alignment = -1;
+name = tildecomb;
+transform = "{0.99806, -0.06221, 0.06221, 0.99806, -61, 171}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 600;
+}
+);
+leftKerningGroup = tildecomb.case;
+rightKerningGroup = tildecomb.case;
+}

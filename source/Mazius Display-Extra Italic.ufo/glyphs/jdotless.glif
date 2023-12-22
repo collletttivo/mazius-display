@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="248"/>
+  <unicode hex="0237"/>
+  <anchor x="205" y="470" name="top"/>
+  <outline>
+    <contour>
+      <point x="-148" y="-264" type="curve"/>
+      <point x="-60" y="-240"/>
+      <point x="32" y="-144"/>
+      <point x="96" y="-60" type="curve"/>
+      <point x="250" y="480" type="line"/>
+      <point x="234" y="486" type="line"/>
+      <point x="158" y="456" type="line" name="_corner00"/>
+      <point x="-7" y="-116" type="line" smooth="yes"/>
+      <point x="-21" y="-166"/>
+      <point x="-48" y="-204"/>
+      <point x="-88" y="-224" type="curve"/>
+      <point x="-219" y="-148" type="line"/>
+      <point x="-248" y="-152" type="line"/>
+      <point x="-285" y="-212" type="line"/>
+      <point x="-241" y="-248"/>
+      <point x="-184" y="-264"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSerif</string>
+          <key>options</key>
+          <integer>1</integer>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

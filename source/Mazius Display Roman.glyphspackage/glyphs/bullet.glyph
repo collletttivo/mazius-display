@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = bullet;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1.6, 0, 0, 1.6, -22, 198}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 311;
+},
+{
+components = (
+{
+name = period;
+transform = "{1.6, 0, 0, 1.6, -6, 198}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 343;
+}
+);
+leftKerningGroup = bullet;
+rightKerningGroup = bullet;
+unicode = 2022;
+}

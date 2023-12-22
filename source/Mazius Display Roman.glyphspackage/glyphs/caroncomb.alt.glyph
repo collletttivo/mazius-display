@@ -1,0 +1,40 @@
+{
+export = 0;
+glyphname = caroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+position = "{243, 692}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{0.8, 0, 0, 0.8, 177, 639}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 359;
+},
+{
+anchors = (
+{
+name = _topright;
+position = "{323, 705}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{0.8, 0, 0, 0.8, 265, 639}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 600;
+}
+);
+leftKerningGroup = caroncomb.alt;
+rightKerningGroup = caroncomb.alt;
+}

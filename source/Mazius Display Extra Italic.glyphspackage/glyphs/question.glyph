@@ -1,0 +1,83 @@
+{
+color = 3;
+glyphname = question;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 86, 0}";
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"188 200 LINE",
+"252 348 LINE",
+"376 385 OFFCURVE",
+"456 464 OFFCURVE",
+"456 558 CURVE SMOOTH",
+"456 649 OFFCURVE",
+"386 714 OFFCURVE",
+"288 714 CURVE",
+"108 594 LINE",
+"116 580 LINE",
+"160 608 OFFCURVE",
+"198 632 OFFCURVE",
+"246 656 CURVE",
+"315 656 OFFCURVE",
+"360 606 OFFCURVE",
+"360 528 CURVE SMOOTH",
+"360 440 OFFCURVE",
+"296 369 OFFCURVE",
+"192 336 CURVE",
+"172 200 LINE"
+);
+}
+);
+width = 424;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 88, 0}";
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"182 200 LINE",
+"266 372 LINE",
+"383 397 OFFCURVE",
+"466 476 OFFCURVE",
+"466 562 CURVE SMOOTH",
+"466 651 OFFCURVE",
+"383 714 OFFCURVE",
+"266 714 CURVE",
+"84 598 LINE",
+"94 580 LINE",
+"138 608 OFFCURVE",
+"180 632 OFFCURVE",
+"220 648 CURVE",
+"276 640 OFFCURVE",
+"314 592 OFFCURVE",
+"314 520 CURVE SMOOTH",
+"314 433 OFFCURVE",
+"258 364 OFFCURVE",
+"162 336 CURVE",
+"158 200 LINE"
+);
+}
+);
+width = 372;
+}
+);
+leftKerningGroup = question;
+rightKerningGroup = question;
+unicode = 003F;
+}

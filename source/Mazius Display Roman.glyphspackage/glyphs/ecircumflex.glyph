@@ -1,0 +1,36 @@
+{
+color = 8;
+glyphname = ecircumflex;
+layers = (
+{
+components = (
+{
+name = e;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 59, -26}";
+}
+);
+layerId = "33C692B7-ECA1-4228-A9DA-44701B454552";
+width = 478;
+},
+{
+components = (
+{
+name = e;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 125, -24}";
+}
+);
+layerId = "6E858C87-3851-4F0D-A4B8-5C62800DDA3D";
+width = 504;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = e;
+rightMetricsKey = e;
+unicode = 00EA;
+}

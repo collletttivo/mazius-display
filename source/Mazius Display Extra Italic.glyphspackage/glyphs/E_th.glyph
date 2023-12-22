@@ -1,0 +1,50 @@
+{
+glyphname = Eth;
+layers = (
+{
+components = (
+{
+name = D;
+}
+);
+layerId = "4AEC2A2F-21E0-4005-B5C4-61417F12BD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"424 362 LINE",
+"426 378 LINE",
+"56 378 LINE",
+"54 362 LINE"
+);
+}
+);
+width = 656;
+},
+{
+components = (
+{
+name = D;
+}
+);
+layerId = "B4D6250A-EC24-4DD5-8C49-5E627D155568";
+paths = (
+{
+closed = 1;
+nodes = (
+"420 360 LINE",
+"422 380 LINE",
+"56 380 LINE",
+"54 360 LINE"
+);
+}
+);
+width = 682;
+}
+);
+leftKerningGroup = H;
+leftMetricsKey = H;
+rightKerningGroup = O;
+rightMetricsKey = O;
+unicode = 00D0;
+}
